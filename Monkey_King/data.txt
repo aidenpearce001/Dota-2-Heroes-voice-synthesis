@@ -1,0 +1,967 @@
+Monkey_King/Vo_monkey_king_mk_takeover_vo.wav|Looks like I've got some new stories to tell.
+Monkey_King/Vo_monkey_king_monkey_spawn_01.wav|The King has arrived.
+Monkey_King/Vo_monkey_king_monkey_spawn_12.wav|A new journey is about to begin.
+Monkey_King/Vo_monkey_king_monkey_spawn_13.wav|I need no introduction!
+Monkey_King/Vo_monkey_king_monkey_spawn_14.wav|Equal of Heaven, greater than gods.
+Monkey_King/Vo_monkey_king_monkey_spawn_02.wav|Time to pick a fight.
+Monkey_King/Vo_monkey_king_monkey_spawn_03.wav|Everyone can relax; the Monkey King has arrived.
+Monkey_King/Vo_monkey_king_monkey_spawn_04.wav|Oh, there'll be stories about this fight.
+Monkey_King/Vo_monkey_king_monkey_spawn_10.wav|These guys aren't gonna know what hit them.
+Monkey_King/Vo_monkey_king_monkey_spawn_11.wav|My next great challenge will be your last.
+Monkey_King/Vo_monkey_king_monkey_spawn_08.wav|Hope they put up a decent fight.
+Monkey_King/Vo_monkey_king_monkey_spawn_09.wav|None can stand against Sun Wukong.
+Monkey_King/Vo_monkey_king_monkey_spawn_06.wav|I've been waiting for a challenge.
+Monkey_King/Vo_monkey_king_monkey_spawn_17.wav|Monkey King.
+Monkey_King/Vo_monkey_king_monkey_anger_12.wav|Aah!
+Monkey_King/Vo_monkey_king_monkey_spawn_01.wav|The King has arrived.
+Monkey_King/Vo_monkey_king_monkey_spawn_02.wav|Time to pick a fight.
+Monkey_King/Vo_monkey_king_monkey_spawn_03.wav|Everyone can relax; the Monkey King has arrived.
+Monkey_King/Vo_monkey_king_monkey_spawn_04.wav|Oh, there'll be stories about this fight.
+Monkey_King/Vo_monkey_king_monkey_spawn_05.wav|Hmhmhmm. This should be interesting.
+Monkey_King/Vo_monkey_king_monkey_spawn_06.wav|I've been waiting for a challenge.
+Monkey_King/Vo_monkey_king_monkey_spawn_07.wav|I've outwitted gods. Smashing a glowing rock should be no problem.
+Monkey_King/Vo_monkey_king_monkey_spawn_08.wav|Hope they put up a decent fight.
+Monkey_King/Vo_monkey_king_monkey_spawn_09.wav|None can stand against Sun Wukong.
+Monkey_King/Vo_monkey_king_monkey_spawn_10.wav|These guys aren't gonna know what hit them.
+Monkey_King/Vo_monkey_king_monkey_spawn_11.wav|My next great challenge will be your last.
+Monkey_King/Vo_monkey_king_monkey_spawn_12.wav|A new journey is about to begin.
+Monkey_King/Vo_monkey_king_monkey_spawn_13.wav|I need no introduction!
+Monkey_King/Vo_monkey_king_monkey_spawn_14.wav|Equal of Heaven, greater than gods.
+Monkey_King/Vo_monkey_king_monkey_spawn_15.wav|Perhaps a challenge at last.
+Monkey_King/Vo_monkey_king_monkey_spawn_16.wav|The Monkey King.
+Monkey_King/Vo_monkey_king_monkey_spawn_17.wav|Monkey King.
+Monkey_King/Vo_monkey_king_monkey_spawn_18.wav|Sun Wukong.
+Monkey_King/Vo_monkey_king_monkey_spawn_19.wav|These fools won't know what hit 'em.
+Monkey_King/Vo_monkey_king_monkey_spawn_21.wav|I know all the tales.
+Monkey_King/Vo_monkey_king_mk_hero_intro_01.wav|This story's as good as written.
+Monkey_King/Vo_monkey_king_mk_hero_intro_02.wav|u My greatest triumph is yet to come.
+Monkey_King/Vo_monkey_king_mk_crown_hero_intro_02.wav|My greatest triumph is yet to come.
+Monkey_King/Vo_monkey_king_mk_hero_intro_03.wav|u I travelled a long way to get here.
+Monkey_King/Vo_monkey_king_mk_crown_hero_intro_03.wav|I travelled a long way to get here.
+Monkey_King/Vo_monkey_king_mk_hero_intro_04.wav|Don't look so surprised, human. My arrival was foretold.
+Monkey_King/Vo_monkey_king_mk_hero_intro_05.wav|Looks like I've got some new stories to tell.
+Monkey_King/Vo_monkey_king_monkey_inthebag_01.wav|It was in the bag the moment I walked on the battlefield.
+Monkey_King/Vo_monkey_king_monkey_inthebag_02.wav|This one is in the bag.
+Monkey_King/Vo_monkey_king_monkey_battlebegins_01.wav|Try to keep up.
+Monkey_King/Vo_monkey_king_monkey_battlebegins_02.wav|Follow me, and see how it's done..
+Monkey_King/Vo_monkey_king_monkey_battlebegins_03.wav|Where I go, an army follows.
+Monkey_King/Vo_monkey_king_monkey_move_01.wav|120 Time to move.
+Monkey_King/Vo_monkey_king_monkey_move_02.wav|Let's go.
+Monkey_King/Vo_monkey_king_monkey_move_03.wav|Where to?
+Monkey_King/Vo_monkey_king_monkey_move_05.wav|Lets move.
+Monkey_King/Vo_monkey_king_monkey_move_07.wav|Ok.
+Monkey_King/Vo_monkey_king_monkey_move_08.wav|On it.
+Monkey_King/Vo_monkey_king_monkey_move_11.wav|I'm ready.
+Monkey_King/Vo_monkey_king_monkey_move_15.wav|On the move.
+Monkey_King/Vo_monkey_king_monkey_move_21.wav|Yes.
+Monkey_King/Vo_monkey_king_monkey_move_22.wav|Eh.
+Monkey_King/Vo_monkey_king_monkey_move_23.wav|Right.
+Monkey_King/Vo_monkey_king_monkey_move_24.wav|Very well.
+Monkey_King/Vo_monkey_king_monkey_move_26.wav|Mmhm.
+Monkey_King/Vo_monkey_king_monkey_move_27.wav|Yes.
+Monkey_King/Vo_monkey_king_monkey_move_28.wav|Yes.
+Monkey_King/Vo_monkey_king_monkey_move_29.wav|Yeah.
+Monkey_King/Vo_monkey_king_monkey_move_30.wav|Yeah.
+Monkey_King/Vo_monkey_king_monkey_move_31.wav|Ok.
+Monkey_King/Vo_monkey_king_monkey_move_32.wav|Got it.
+Monkey_King/Vo_monkey_king_monkey_move_33.wav|M'hm.
+Monkey_King/Vo_monkey_king_monkey_move_36.wav|Yes.
+Monkey_King/Vo_monkey_king_monkey_move_37.wav|Yes.
+Monkey_King/Vo_monkey_king_monkey_move_38.wav|Yes.
+Monkey_King/Vo_monkey_king_monkey_move_39.wav|M'hm!
+Monkey_King/Vo_monkey_king_monkey_move_09.wav|120 Let's get a move on.
+Monkey_King/Vo_monkey_king_monkey_move_13.wav|120 They can't stop me.
+Monkey_King/Vo_monkey_king_monkey_move_17.wav|120 Ready for anything.
+Monkey_King/Vo_monkey_king_monkey_move_19.wav|120 I'll go where the action is.
+Monkey_King/Vo_monkey_king_monkey_move_06.wav|240 Time to pick a fight.
+Monkey_King/Vo_monkey_king_monkey_move_18.wav|240 Ooh. Let's pick a fight.
+Monkey_King/Vo_monkey_king_monkey_move_20.wav|120 Time to make something happen.
+Monkey_King/Vo_monkey_king_monkey_move_25.wav|120 I journey forth.
+Monkey_King/Vo_monkey_king_monkey_move_34.wav|120 From here, to there.
+Monkey_King/Vo_monkey_king_monkey_move_04.wav|240 Hope we find trouble.
+Monkey_King/Vo_monkey_king_monkey_move_14.wav|240 They won't know what hit them.
+Monkey_King/Vo_monkey_king_monkey_move_10.wav|240 Where's my cloud?
+Monkey_King/Vo_monkey_king_monkey_move_12.wav|r Trouble, here I come.
+Monkey_King/Vo_monkey_king_monkey_move_16.wav|240 Moving to position.
+Monkey_King/Vo_monkey_king_monkey_crown_move_10.wav|240 Where's my cloud?
+Monkey_King/Vo_monkey_king_monkey_move_pain_01.wav|Time to move.
+Monkey_King/Vo_monkey_king_monkey_move_pain_02.wav|Let's go.
+Monkey_King/Vo_monkey_king_monkey_move_pain_03.wav|Where to?
+Monkey_King/Vo_monkey_king_monkey_move_pain_05.wav|Lets move.
+Monkey_King/Vo_monkey_king_monkey_move_pain_07.wav|Ok.
+Monkey_King/Vo_monkey_king_monkey_move_pain_08.wav|Ah. On it.
+Monkey_King/Vo_monkey_king_monkey_move_pain_11.wav|I'm ready.
+Monkey_King/Vo_monkey_king_monkey_move_pain_15.wav|On the move.
+Monkey_King/Vo_monkey_king_monkey_move_pain_21.wav|Yes.
+Monkey_King/Vo_monkey_king_monkey_move_pain_22.wav|Ehh.
+Monkey_King/Vo_monkey_king_monkey_move_pain_23.wav|Eh.
+Monkey_King/Vo_monkey_king_monkey_move_pain_24.wav|Right.
+Monkey_King/Vo_monkey_king_monkey_move_pain_25.wav|Very well.
+Monkey_King/Vo_monkey_king_monkey_move_pain_27.wav|Mmhm.
+Monkey_King/Vo_monkey_king_monkey_move_pain_09.wav|120 Let's get a move on.
+Monkey_King/Vo_monkey_king_monkey_move_pain_12.wav|120 Trouble, here I come.
+Monkey_King/Vo_monkey_king_monkey_move_pain_13.wav|120 They can't stop me.
+Monkey_King/Vo_monkey_king_monkey_move_pain_14.wav|120 They won't know what hit them.
+Monkey_King/Vo_monkey_king_monkey_move_pain_17.wav|120 Ready for anything.
+Monkey_King/Vo_monkey_king_monkey_move_pain_19.wav|120 I'll go where the action is.
+Monkey_King/Vo_monkey_king_monkey_move_pain_26.wav|120 I journey forth.
+Monkey_King/Vo_monkey_king_monkey_move_pain_06.wav|240 Time to pick a fight.
+Monkey_King/Vo_monkey_king_monkey_move_pain_18.wav|Let's pick a fight.
+Monkey_King/Vo_monkey_king_monkey_move_pain_20.wav|120 Time to make something happen.
+Monkey_King/Vo_monkey_king_monkey_move_pain_04.wav|240 Hope we find trouble.
+Monkey_King/Vo_monkey_king_monkey_move_pain_16.wav|240 Moving to position.
+Monkey_King/Vo_monkey_king_monkey_move_pain_10.wav|r Where's my cloud?
+Monkey_King/Vo_monkey_king_monkey_attack_04.wav|Come on!
+Monkey_King/Vo_monkey_king_monkey_attack_10.wav|Of course.
+Monkey_King/Vo_monkey_king_monkey_attack_11.wav|Ha! It's what I do.
+Monkey_King/Vo_monkey_king_monkey_attack_12.wav|Count on it.
+Monkey_King/Vo_monkey_king_monkey_attack_13.wav|Keep it coming.
+Monkey_King/Vo_monkey_king_monkey_attack_14.wav|Who's next?!
+Monkey_King/Vo_monkey_king_monkey_attack_emote_01.wav|Hu-wah!
+Monkey_King/Vo_monkey_king_monkey_attack_emote_02.wav|Huwuh!
+Monkey_King/Vo_monkey_king_monkey_attack_emote_03.wav|Ha!
+Monkey_King/Vo_monkey_king_monkey_attack_emote_04.wav|Hu!
+Monkey_King/Vo_monkey_king_monkey_attack_short_01.wav|Hyuh!
+Monkey_King/Vo_monkey_king_monkey_attack_short_03.wav|Hrh!
+Monkey_King/Vo_monkey_king_monkey_attack_short_04.wav|Ha!
+Monkey_King/Vo_monkey_king_monkey_attack_short_05.wav|Ohf!
+Monkey_King/Vo_monkey_king_monkey_attack_short_06.wav|Huh!
+Monkey_King/Vo_monkey_king_monkey_attack_short_07.wav|Dah!
+Monkey_King/Vo_monkey_king_monkey_attack_short_08.wav|Urah!
+Monkey_King/Vo_monkey_king_monkey_attack_short_09.wav|Hyah!
+Monkey_King/Vo_monkey_king_monkey_attack_short_10.wav|Ha!
+Monkey_King/Vo_monkey_king_monkey_attack_01.wav|It ends here!
+Monkey_King/Vo_monkey_king_monkey_attack_05.wav|Hoho. You're outta your league.
+Monkey_King/Vo_monkey_king_monkey_attack_08.wav|120 Oh, I'm gonna enjoy this.
+Monkey_King/Vo_monkey_king_monkey_attack_06.wav|240 Show me what you got!
+Monkey_King/Vo_monkey_king_monkey_attack_07.wav|120 Do you know who I am?!
+Monkey_King/Vo_monkey_king_monkey_attack_09.wav|120 You should've stayed home.
+Monkey_King/Vo_monkey_king_monkey_attack_03.wav|r You think you can beat me?!
+Monkey_King/Vo_monkey_king_monkey_attack_02.wav|240 It's over!
+Monkey_King/Vo_monkey_king_monkey_cast_02.wav|They're gonna be telling stories about this.
+Monkey_King/Vo_monkey_king_monkey_cast_03.wav|Man, I make this look good.
+Monkey_King/Vo_monkey_king_monkey_ability2_01.wav|120 It ends here!
+Monkey_King/Vo_monkey_king_monkey_ability2_02.wav|So long!
+Monkey_King/Vo_monkey_king_monkey_ability2_03.wav|It's over!
+Monkey_King/Vo_monkey_king_monkey_ability2_06.wav|120 Hard to run with a broken spine.
+Monkey_King/Vo_monkey_king_monkey_ability2_07.wav|No!
+Monkey_King/Vo_monkey_king_monkey_ability2_08.wav|No!
+Monkey_King/Vo_monkey_king_monkey_ability2_09.wav|Uh, no.
+Monkey_King/Vo_monkey_king_monkey_ability2_10.wav|No!
+Monkey_King/Vo_monkey_king_monkey_attack_big_01.wav|120 Hayah!
+Monkey_King/Vo_monkey_king_monkey_attack_big_02.wav|120 Oowah!
+Monkey_King/Vo_monkey_king_monkey_attack_big_03.wav|120 Ugruh!
+Monkey_King/Vo_monkey_king_monkey_attack_big_04.wav|120 Ehhwa!
+Monkey_King/Vo_monkey_king_monkey_attack_big_05.wav|u Owguh!
+Monkey_King/Vo_monkey_king_monkey_attack_big_06.wav|u Haha ah!
+Monkey_King/Vo_monkey_king_monkey_ability2_05.wav|Should've run while you had the chance.
+Monkey_King/Vo_monkey_king_monkey_ability1_01.wav|Haha!
+Monkey_King/Vo_monkey_king_monkey_ability1_02.wav|Whoo!
+Monkey_King/Vo_monkey_king_monkey_ability1_03.wav|Over here!
+Monkey_King/Vo_monkey_king_monkey_ability1_04.wav|Here we go!
+Monkey_King/Vo_monkey_king_monkey_ability1_05.wav|120 No one's catching me.
+Monkey_King/Vo_monkey_king_monkey_ability1_06.wav|120 You can see everything up here.
+Monkey_King/Vo_monkey_king_monkey_ability1_08.wav|120 Taking the high ground.
+Monkey_King/Vo_monkey_king_monkey_ability1_09.wav|I'll go high.
+Monkey_King/Vo_monkey_king_monkey_ability1_10.wav|Ha ha ha ha.
+Monkey_King/Vo_monkey_king_monkey_ability1_11.wav|Ha ha ha ha haaa.
+Monkey_King/Vo_monkey_king_monkey_ability1_12.wav|Ha ha!
+Monkey_King/Vo_monkey_king_monkey_ability1_16.wav|Oh, nice view!
+Monkey_King/Vo_monkey_king_monkey_ability1_07.wav|Incoming! Woo!
+Monkey_King/Vo_monkey_king_monkey_ability3_01.wav|120 Where do you think you're going?
+Monkey_King/Vo_monkey_king_monkey_ability3_05.wav|120 Ohoho! Not so fast.
+Monkey_King/Vo_monkey_king_monkey_ability5_01.wav|Here I come.
+Monkey_King/Vo_monkey_king_monkey_ability4_01.wav|Oh ho hoo ho ho ho ho hehe hehe hehe.
+Monkey_King/Vo_monkey_king_monkey_ability4_06.wav|Mm Hmm hmm hmm hmm hmmmm.
+Monkey_King/Vo_monkey_king_monkey_ability4_02.wav|They'll never see it comin'.
+Monkey_King/Vo_monkey_king_monkey_ability4_03.wav|Time to have some fun.
+Monkey_King/Vo_monkey_king_monkey_ability4_04.wav|Out of sight, out of mind.
+Monkey_King/Vo_monkey_king_monkey_ability4_05.wav|r Lycan's got one transformation. I got seventy-two.
+Monkey_King/Vo_monkey_king_monkey_ability5_08.wav|240 My legend grows!
+Monkey_King/Vo_monkey_king_monkey_bottle_06.wav|240 Showtime.
+Monkey_King/Vo_monkey_king_monkey_ability2_04.wav|240 Watch this trick.
+Monkey_King/Vo_monkey_king_monkey_ability5_05.wav|240 Leave it me. Lots and lots of me.
+Monkey_King/Vo_monkey_king_monkey_levelup_01.wav|I'm just getting started.
+Monkey_King/Vo_monkey_king_monkey_levelup_02.wav|I'll fight anyone that gets in my way.
+Monkey_King/Vo_monkey_king_monkey_levelup_05.wav|I'm not stopping now.
+Monkey_King/Vo_monkey_king_monkey_levelup_06.wav|I'll show them why I'm called 'King'.
+Monkey_King/Vo_monkey_king_monkey_levelup_07.wav|Not even the Gods could stop me!
+Monkey_King/Vo_monkey_king_monkey_levelup_08.wav|You thought I was trouble before?
+Monkey_King/Vo_monkey_king_monkey_levelup_09.wav|Let's pick a fight.
+Monkey_King/Vo_monkey_king_monkey_levelup_10.wav|In fine form.
+Monkey_King/Vo_monkey_king_monkey_levelup_03.wav|I'm stronger now. I can feel it!
+Monkey_King/Vo_monkey_king_monkey_kill_01.wav|I've killed better.
+Monkey_King/Vo_monkey_king_monkey_kill_02.wav|I could do this all day!
+Monkey_King/Vo_monkey_king_monkey_kill_03.wav|Aw come on, you're dead already?
+Monkey_King/Vo_monkey_king_monkey_kill_04.wav|Really? That's your best?
+Monkey_King/Vo_monkey_king_monkey_kill_05.wav|Barely broke a sweat.
+Monkey_King/Vo_monkey_king_monkey_kill_06.wav|I was expecting competition.
+Monkey_King/Vo_monkey_king_monkey_kill_07.wav|Come back after you've had some practice!
+Monkey_King/Vo_monkey_king_monkey_kill_08.wav|Another one down!
+Monkey_King/Vo_monkey_king_monkey_kill_10.wav|Nice try.
+Monkey_King/Vo_monkey_king_monkey_kill_11.wav|Only way that could've gone.
+Monkey_King/Vo_monkey_king_monkey_kill_12.wav|Oh, next time, try not to die.
+Monkey_King/Vo_monkey_king_monkey_laugh_01.wav|Hm hm hm hm hmm.
+Monkey_King/Vo_monkey_king_monkey_laugh_02.wav|Hohohohoo.
+Monkey_King/Vo_monkey_king_monkey_laugh_03.wav|Huhahahahahahahahaaa.
+Monkey_King/Vo_monkey_king_monkey_laugh_04.wav|Hnhnhnhnhnhnhnn.
+Monkey_King/Vo_monkey_king_monkey_laugh_05.wav|Ooh ha ha ha haa ah ha ha.
+Monkey_King/Vo_monkey_king_monkey_laugh_06.wav|Ha ha ha ha ha ha ha ha.
+Monkey_King/Vo_monkey_king_monkey_laugh_07.wav|Ho ho ho hoo oh.
+Monkey_King/Vo_monkey_king_monkey_laugh_08.wav|Ooo ha ha ha ha ha ha ha ha.
+Monkey_King/Vo_monkey_king_monkey_laugh_09.wav|Oh ho ho ho ho hoo.
+Monkey_King/Vo_monkey_king_monkey_laugh_10.wav|Ha ha ha.
+Monkey_King/Vo_monkey_king_monkey_laugh_11.wav|Hoo oh oh oh.
+Monkey_King/Vo_monkey_king_monkey_laugh_12.wav|Hehehehehe.
+Monkey_King/Vo_monkey_king_monkey_laugh_13.wav|Hohohohohoho.
+Monkey_King/Vo_monkey_king_monkey_laugh_14.wav|Huhahahahahahaha.
+Monkey_King/Vo_monkey_king_monkey_laugh_15.wav|Hohohoho.
+Monkey_King/Vo_monkey_king_monkey_laugh_16.wav|Oh ho hooo.
+Monkey_King/Vo_monkey_king_monkey_kill_09.wav|r What's the opposite of regicide?
+Monkey_King/Vo_monkey_king_monkey_laugh_17.wav|r Ah ha ha ha ha ha. Woohoohoohoo. Ohhh heee.
+Monkey_King/Vo_monkey_king_monkey_rival_01.wav|r I'm supposed to be scared of some mist? Please. I ride clouds for fun.
+Monkey_King/Vo_monkey_king_monkey_rival_02.wav|r So Abaddon, does killing you make me Monkey King, Lord of Avernus, or just King of Avernus?
+Monkey_King/Vo_monkey_king_monkey_rival_03.wav|r Look on the bright side Alchemist: you can make yourself a potion to forget this fight.
+Monkey_King/Vo_monkey_king_monkey_rival_04.wav|r Alchemist, you could be riding that frost dragon and I'd still end you.
+Monkey_King/Vo_monkey_king_monkey_rival_06.wav|r You think you're the first spirit I've dealt with?
+Monkey_King/Vo_monkey_king_monkey_rival_07.wav|r For someone who says he's anti-magic you sure like teleporting around the battle field.
+Monkey_King/Vo_monkey_king_monkey_rival_08.wav|r Anti-Mage, beating hypocrites like you never gets old.
+Monkey_King/Vo_monkey_king_monkey_rival_10.wav|r Arc Warden, I'll take you seriously the moment you start talking in the first person.
+Monkey_King/Vo_monkey_king_monkey_rival_12.wav|r I hope Goodkind is taking notes, because people are gonna love reading about me killing you.
+Monkey_King/Vo_monkey_king_monkey_rival_13.wav|r You think bad dreams are gonna stop me?
+Monkey_King/Vo_monkey_king_monkey_rival_14.wav|r Bane, the only one going to sleep today is you.
+Monkey_King/Vo_monkey_king_monkey_rival_15.wav|r For god's sake you're a twerp that rides a bat, not Nevermore.
+Monkey_King/Vo_monkey_king_monkey_rival_16.wav|r Out of the way, vermin!
+Monkey_King/Vo_monkey_king_monkey_rival_17.wav|r No one is my master!
+Monkey_King/Vo_monkey_king_monkey_rival_18.wav|r This forest belongs to me!
+Monkey_King/Vo_monkey_king_monkey_rival_19.wav|r You don't need to hunt me down, I'm right here.
+Monkey_King/Vo_monkey_king_monkey_rival_20.wav|r The only blood being spilt here is yours.
+Monkey_King/Vo_monkey_king_monkey_rival_21.wav|r If you think you can bring me down, Bounty Hunter, you've got another thing coming.
+Monkey_King/Vo_monkey_king_monkey_rival_22.wav|r I'm one bounty you're never cashing in.
+Monkey_King/Vo_monkey_king_monkey_rival_24.wav|r I know a thing or two about drunken masters; and you my friend, are just the town lush.
+Monkey_King/Vo_monkey_king_monkey_rival_26.wav|r The beating Tusk gave you will feel like a sweet memory when I'm done with you.
+Monkey_King/Vo_monkey_king_monkey_rival_28.wav|r It's over between us Arachnia!
+Monkey_King/Vo_monkey_king_monkey_rival_29.wav|r There's no room for two half-man, half-animal warriors!
+Monkey_King/Vo_monkey_king_monkey_rival_30.wav|r Warrunner, you were only champion of your arena because you never fought me.
+Monkey_King/Vo_monkey_king_monkey_rival_31.wav|r Your search for the light ends here, Chaos Knight!
+Monkey_King/Vo_monkey_king_monkey_rival_32.wav|r There's only room for one agent of chaos on this battlefield.
+Monkey_King/Vo_monkey_king_monkey_rival_33.wav|r I'll destroy every one of your puppets, Chen!
+Monkey_King/Vo_monkey_king_monkey_rival_34.wav|r Die, slaver!
+Monkey_King/Vo_monkey_king_monkey_rival_35.wav|r I'll put you in the ground where you belong!
+Monkey_King/Vo_monkey_king_monkey_rival_36.wav|r I'll give you the final rest you've been begging for, Archer.
+Monkey_King/Vo_monkey_king_monkey_rival_37.wav|r I'll pry you out of that tin can!
+Monkey_King/Vo_monkey_king_monkey_rival_39.wav|r You gonna fight back or just make stupid ice puns all day?
+Monkey_King/Vo_monkey_king_monkey_rival_40.wav|r Let's be real, Maiden, your sister has all the talent.
+Monkey_King/Vo_monkey_king_monkey_rival_41.wav|r I don't care how good a tactician you are Dark Seer, you'll never see me comin'.
+Monkey_King/Vo_monkey_king_monkey_rival_44.wav|r What are you gonna do? Heal me to death? Huh!
+Monkey_King/Vo_monkey_king_monkey_rival_45.wav|r Hey Prophet, hahaha! You see that coming?
+Monkey_King/Vo_monkey_king_monkey_rival_46.wav|r Just stay dead already!
+Monkey_King/Vo_monkey_king_monkey_rival_48.wav|r When are you lightning guys gonna realize you can't beat me.
+Monkey_King/Vo_monkey_king_monkey_rival_49.wav|r I'm sending you back to the Seven Hells.
+Monkey_King/Vo_monkey_king_monkey_rival_50.wav|r Looks like you met your doom! Ok, I gotta workshop that, that was no good.
+Monkey_King/Vo_monkey_king_monkey_rival_51.wav|r So you're the famous Dragon Knight? Disappointing.
+Monkey_King/Vo_monkey_king_monkey_rival_52.wav|r I fight gods, what chance did a half dragon have?
+Monkey_King/Vo_monkey_king_monkey_rival_53.wav|r I own this jungle!
+Monkey_King/Vo_monkey_king_monkey_rival_54.wav|r You never had a chance, Traxex.
+Monkey_King/Vo_monkey_king_monkey_rival_56.wav|r You should've stayed in the ground Kaolin.
+Monkey_King/Vo_monkey_king_monkey_rival_57.wav|r So, you're the one that stole my story.
+Monkey_King/Vo_monkey_king_monkey_rival_58.wav|r Cute hammer, Earthshaker, hah. Next time use it.
+Monkey_King/Vo_monkey_king_monkey_rival_59.wav|r Your time is up, old man!
+Monkey_King/Vo_monkey_king_monkey_rival_60.wav|r You never should've left your forge!
+Monkey_King/Vo_monkey_king_monkey_rival_61.wav|r Oh, sorry buddy!
+Monkey_King/Vo_monkey_king_monkey_rival_62.wav|r You picked the wrong side, Xin!
+Monkey_King/Vo_monkey_king_monkey_rival_63.wav|r You seemed nice, sorry!
+Monkey_King/Vo_monkey_king_monkey_rival_64.wav|r You should've stuck with singing to rabbits, huh. Fighting's not your thing.
+Monkey_King/Vo_monkey_king_monkey_rival_65.wav|r The Dark Fundamentals must die!
+Monkey_King/Vo_monkey_king_monkey_rival_66.wav|r It ends here, Enigma!
+Monkey_King/Vo_monkey_king_monkey_rival_67.wav|r I won't have the gods undo my glory!
+Monkey_King/Vo_monkey_king_monkey_rival_68.wav|r Time's up!
+Monkey_King/Vo_monkey_king_monkey_rival_69.wav|r Whooh! Smashing this thing made my day!
+Monkey_King/Vo_monkey_king_monkey_rival_70.wav|r You're grounded!
+Monkey_King/Vo_monkey_king_monkey_rival_71.wav|r I grant you the death you crave Huskar!
+Monkey_King/Vo_monkey_king_monkey_rival_72.wav|r Sacred Warrior. Huh huh, how pedestrian.
+Monkey_King/Vo_monkey_king_monkey_rival_73.wav|r Oh, stop talking already!
+Monkey_King/Vo_monkey_king_monkey_rival_75.wav|r Two heads, and not a warrior between them.
+Monkey_King/Vo_monkey_king_monkey_rival_76.wav|r I was expecting a fight. How disappointing.
+Monkey_King/Vo_monkey_king_monkey_rival_78.wav|r Heroes don't hide behind masks.
+Monkey_King/Vo_monkey_king_monkey_rival_79.wav|r Ezalor, you should have used that horse to run.
+Monkey_King/Vo_monkey_king_monkey_rival_80.wav|r You've had a good run, Old Man. But it's my time now.
+Monkey_King/Vo_monkey_king_monkey_rival_81.wav|r Whooh! You should've went down with your ship, pirate.
+Monkey_King/Vo_monkey_king_monkey_rival_83.wav|r Who put you in charge of a Legion?
+Monkey_King/Vo_monkey_king_monkey_rival_84.wav|r I always heard the Bronze Legion was weak, and now I see why!
+Monkey_King/Vo_monkey_king_monkey_rival_85.wav|r It's all over Leshrac!
+Monkey_King/Vo_monkey_king_monkey_rival_86.wav|r Begone Leshrac!
+Monkey_King/Vo_monkey_king_monkey_rival_88.wav|r You're an abomination!
+Monkey_King/Vo_monkey_king_monkey_rival_89.wav|r You were safer in that dungeon, Lifestealer.
+Monkey_King/Vo_monkey_king_monkey_rival_90.wav|r Your name's 'Lifestealer'? Hohoho! Man, this joke writes itself.
+Monkey_King/Vo_monkey_king_monkey_rival_91.wav|r Your sister was right about you, you are overrated.
+Monkey_King/Vo_monkey_king_monkey_rival_92.wav|r I didn't want it to go this way Lina.
+Monkey_King/Vo_monkey_king_monkey_rival_93.wav|r You're finished Demon Witch!
+Monkey_King/Vo_monkey_king_monkey_rival_95.wav|r Wish you had friends now, hun Druid?
+Monkey_King/Vo_monkey_king_monkey_rival_96.wav|r No one rules nature, but me!
+Monkey_King/Vo_monkey_king_monkey_rival_97.wav|r Your pet can't help you Luna!
+Monkey_King/Vo_monkey_king_monkey_rival_98.wav|r You brought this on yourself!
+Monkey_King/Vo_monkey_king_monkey_rival_100.wav|r Your pack is finished, Lycan!
+Monkey_King/Vo_monkey_king_monkey_rival_101.wav|r Speed beats strength everytime! Hoho!
+Monkey_King/Vo_monkey_king_monkey_rival_102.wav|r Give it up Magnus, you can't catch me.
+Monkey_King/Vo_monkey_king_monkey_rival_103.wav|r Well, you and Zeus deserve each other.
+Monkey_King/Vo_monkey_king_monkey_rival_104.wav|r You're finished Medusa!
+Monkey_King/Vo_monkey_king_monkey_rival_106.wav|r It'll take more than 5 of you!
+Monkey_King/Vo_monkey_king_monkey_rival_107.wav|r You're making this too easy, Mirana.
+Monkey_King/Vo_monkey_king_monkey_rival_108.wav|r Goodbye Princess.
+Monkey_King/Vo_monkey_king_monkey_rival_109.wav|r No one out-transforms me!
+Monkey_King/Vo_monkey_king_monkey_rival_110.wav|r It ends here Morphling!
+Monkey_King/Vo_monkey_king_monkey_rival_111.wav|r You've sang your last song, Siren!
+Monkey_King/Vo_monkey_king_monkey_rival_112.wav|r No one tries to control the Monkey King!
+Monkey_King/Vo_monkey_king_monkey_rival_113.wav|r Pulling root was your ruin, Prophet.
+Monkey_King/Vo_monkey_king_monkey_rival_114.wav|r Trees offer no protection from me.
+Monkey_King/Vo_monkey_king_monkey_rival_115.wav|r You're done preying on the weak Necrophos!
+Monkey_King/Vo_monkey_king_monkey_rival_116.wav|r Going up against me, Necrophos? Huh, that's just masochistic.
+Monkey_King/Vo_monkey_king_monkey_rival_117.wav|r I've heard a lot of stories about you. Oh, I guess this is the last one.
+Monkey_King/Vo_monkey_king_monkey_rival_118.wav|r Mistake me for easy prey, Night Stalker? You're a fairy tale. And I'm a legend.
+Monkey_King/Vo_monkey_king_monkey_rival_120.wav|r No one tries to assassinate the Monkey King and lives!
+Monkey_King/Vo_monkey_king_monkey_rival_121.wav|r Haha. You amuse me, Ogres. Pity.
+Monkey_King/Vo_monkey_king_monkey_rival_122.wav|r Twice the ogre? Try half the challenge.
+Monkey_King/Vo_monkey_king_monkey_rival_123.wav|r Sycophant!
+Monkey_King/Vo_monkey_king_monkey_rival_124.wav|r Where's your Omniscience now?
+Monkey_King/Vo_monkey_king_monkey_rival_125.wav|r Tell me you saw this coming.
+Monkey_King/Vo_monkey_king_monkey_rival_126.wav|r I'll trust my staff over your whispered dreams, Oracle.
+Monkey_King/Vo_monkey_king_monkey_rival_128.wav|r Hadn't you heard? Imprisoning me just makes me stronger.
+Monkey_King/Vo_monkey_king_monkey_rival_129.wav|r Didn't your sisters warn you about me, Assassin?
+Monkey_King/Vo_monkey_king_monkey_rival_130.wav|r The Phantom Veil becomes your shroud, Mortred.
+Monkey_King/Vo_monkey_king_monkey_rival_131.wav|r Honestly, I don't see the resemblance.
+Monkey_King/Vo_monkey_king_monkey_rival_132.wav|r That's my trick, ghost man. And I do it better.
+Monkey_King/Vo_monkey_king_monkey_rival_133.wav|r You were adorable before I killed you.
+Monkey_King/Vo_monkey_king_monkey_rival_134.wav|r Sorry, Puck. The battlefield's no place for you.
+Monkey_King/Vo_monkey_king_monkey_rival_135.wav|r You disgust me Pudge. Oh, not morally or anything, you're just gross.
+Monkey_King/Vo_monkey_king_monkey_rival_137.wav|r You haven't earned anything, runt.
+Monkey_King/Vo_monkey_king_monkey_rival_138.wav|r The battlefield's no place for tantrums, Pugna.
+Monkey_King/Vo_monkey_king_monkey_rival_139.wav|r Back to Hell, succubus. This kingdom needs no Queen.
+Monkey_King/Vo_monkey_king_monkey_rival_140.wav|r Your reign is over!
+Monkey_King/Vo_monkey_king_monkey_rival_141.wav|r Your days of torment are over, Razor!
+Monkey_King/Vo_monkey_king_monkey_rival_142.wav|r I'm not some rat in your maze.
+Monkey_King/Vo_monkey_king_monkey_rival_144.wav|r Oh, sorry! Didn't see you.
+Monkey_King/Vo_monkey_king_monkey_rival_145.wav|r I don't steal spells, Rubick, I take lives.
+Monkey_King/Vo_monkey_king_monkey_rival_146.wav|r Grand Magus? Phuh! Guess that was just another fairy tale.
+Monkey_King/Vo_monkey_king_monkey_rival_147.wav|r Many claim the crown, Sand Thing, few bear the weight.
+Monkey_King/Vo_monkey_king_monkey_rival_148.wav|r King? Hardly.
+Monkey_King/Vo_monkey_king_monkey_rival_149.wav|r I've dealt with your puppets before. It's nice to kill the real thing.
+Monkey_King/Vo_monkey_king_monkey_rival_150.wav|r I'll always know which one is real, Shadow Demon.
+Monkey_King/Vo_monkey_king_monkey_rival_151.wav|r I won't let you claim another soul!
+Monkey_King/Vo_monkey_king_monkey_rival_152.wav|r It's over Nevermore. You're finished!
+Monkey_King/Vo_monkey_king_monkey_rival_153.wav|r You're nothing a but a petty thug.
+Monkey_King/Vo_monkey_king_monkey_rival_154.wav|r I know a huckster when I see one.
+Monkey_King/Vo_monkey_king_monkey_rival_155.wav|r Oh, shut up.
+Monkey_King/Vo_monkey_king_monkey_rival_156.wav|r Ah, had to kill you before you bored me to death.
+Monkey_King/Vo_monkey_king_monkey_rival_157.wav|r From the greatest heights fall the biggest cowards.
+Monkey_King/Vo_monkey_king_monkey_rival_158.wav|r Are those things made of wax, Skywrath?
+Monkey_King/Vo_monkey_king_monkey_rival_159.wav|r You're the ugliest thing I've seen, Slardar. And I've seen a lot.
+Monkey_King/Vo_monkey_king_monkey_rival_160.wav|r Not even the Siren could protect you.
+Monkey_King/Vo_monkey_king_monkey_rival_161.wav|r Couldn't escape that, could you?
+Monkey_King/Vo_monkey_king_monkey_rival_162.wav|r Your sentence isn't life this time, Slark. It's death.
+Monkey_King/Vo_monkey_king_monkey_rival_163.wav|r You think your toy levels the playing field?
+Monkey_King/Vo_monkey_king_monkey_rival_164.wav|r That cowardly weapon has no place on my battlefield, Sniper.
+Monkey_King/Vo_monkey_king_monkey_rival_165.wav|r Enunciate!
+Monkey_King/Vo_monkey_king_monkey_rival_167.wav|r Stupid cow.
+Monkey_King/Vo_monkey_king_monkey_rival_168.wav|r Bara, you had all of existence to choose from, and you picked a fight with me? Idiot.
+Monkey_King/Vo_monkey_king_monkey_rival_169.wav|r You'll have to try harder than that Storm Spirit.
+Monkey_King/Vo_monkey_king_monkey_rival_170.wav|r Every storm eventually blows out, Raijin.
+Monkey_King/Vo_monkey_king_monkey_rival_171.wav|r I'm not saying there's always a connection between excessive brawn and mental deficiency.
+Monkey_King/Vo_monkey_king_monkey_rival_172.wav|r Hahahaha, Sven. You thought you could keep up with me? There are trees everywhere!
+Monkey_King/Vo_monkey_king_monkey_rival_173.wav|r No one likes you, Techies. Just go away.
+Monkey_King/Vo_monkey_king_monkey_rival_174.wav|r Saved you the trouble. Idiots.
+Monkey_King/Vo_monkey_king_monkey_rival_175.wav|r You should've stuck to the library, Lanaya.
+Monkey_King/Vo_monkey_king_monkey_rival_176.wav|r The Temple will have to find a new errand girl.
+Monkey_King/Vo_monkey_king_monkey_rival_177.wav|r You do know that demon killing's kind of my thing, right?
+Monkey_King/Vo_monkey_king_monkey_rival_178.wav|r Your name is more impressive than your actual skills.
+Monkey_King/Vo_monkey_king_monkey_rival_179.wav|r I made a bet with Kunkka that I'd bag you first.
+Monkey_King/Vo_monkey_king_monkey_rival_180.wav|r Oh, sorry, Tidehunter, you'll have to settle for burial at river.
+Monkey_King/Vo_monkey_king_monkey_rival_181.wav|r Ever wondered if maybe your city had it comin', Rizzrack?
+Monkey_King/Vo_monkey_king_monkey_rival_182.wav|r The trees have been saying some very bad things about you, Timbersaw.
+Monkey_King/Vo_monkey_king_monkey_rival_183.wav|r I have brains and brawn, Tinker.
+Monkey_King/Vo_monkey_king_monkey_rival_185.wav|r Only room in this lane for one stoney killer, Tiny.
+Monkey_King/Vo_monkey_king_monkey_rival_186.wav|r I get it. Your name's ironic. Good bye.
+Monkey_King/Vo_monkey_king_monkey_rival_187.wav|r The trees will be just fine without you.
+Monkey_King/Vo_monkey_king_monkey_rival_188.wav|r I always wanted to take up woodcarving.
+Monkey_King/Vo_monkey_king_monkey_rival_189.wav|r You got spirit Warlord, I'll give you that.
+Monkey_King/Vo_monkey_king_monkey_rival_190.wav|r Trolls. Always a challenge, never an obstacle.
+Monkey_King/Vo_monkey_king_monkey_rival_191.wav|r You threw your life away for a bet, Tusk? Oh! I like that.
+Monkey_King/Vo_monkey_king_monkey_rival_192.wav|r You wanted to fight in a war, Tusk? I give you war!
+Monkey_King/Vo_monkey_king_monkey_rival_193.wav|r Get back in your pit, Underlord.
+Monkey_King/Vo_monkey_king_monkey_rival_194.wav|r So much fanfare. So much disappointment.
+Monkey_King/Vo_monkey_king_monkey_rival_195.wav|r You've forgotten your life. None will remember your death.
+Monkey_King/Vo_monkey_king_monkey_rival_196.wav|r He seemed to die just fine to me.
+Monkey_King/Vo_monkey_king_monkey_rival_197.wav|r Your kin are safe from me, Ursa. If they don't follow your mistake.
+Monkey_King/Vo_monkey_king_monkey_rival_198.wav|r You chose the wrong friends, noble beast.
+Monkey_King/Vo_monkey_king_monkey_rival_199.wav|r Return to your unquiet grave, spirit!
+Monkey_King/Vo_monkey_king_monkey_rival_200.wav|r Come back for vengeance, and I'll do that again.
+Monkey_King/Vo_monkey_king_monkey_rival_201.wav|r You think you're the scariest thing in the Jungle?
+Monkey_King/Vo_monkey_king_monkey_rival_202.wav|r That's the biggest banana slug I've ever seen.
+Monkey_King/Vo_monkey_king_monkey_rival_203.wav|r Monkey vs snake. Monkey wins. Monkey always wins!
+Monkey_King/Vo_monkey_king_monkey_rival_204.wav|r Let's see if your poison's good for cleaning off blood.
+Monkey_King/Vo_monkey_king_monkey_rival_205.wav|r You hold no sway over me, Visage.
+Monkey_King/Vo_monkey_king_monkey_rival_206.wav|r I'm on no lists, Visage. Seek elsewhere.
+Monkey_King/Vo_monkey_king_monkey_rival_207.wav|r Men, demons, men with demons. Huh, makes no difference to me.
+Monkey_King/Vo_monkey_king_monkey_rival_208.wav|r I've killed a thousand men like you, Warlock. I'll happily kill a thousand more.
+Monkey_King/Vo_monkey_king_monkey_rival_209.wav|r It's not hard catching bugs when you use a stick.
+Monkey_King/Vo_monkey_king_monkey_rival_210.wav|r I'm reminded of a delicacy I tried in the Palace of Hurra'agdu. One of your brood, perhaps.
+Monkey_King/Vo_monkey_king_monkey_rival_211.wav|r Traxex was right about you: you are a middling talent.
+Monkey_King/Vo_monkey_king_monkey_rival_212.wav|r Congratulations, Windranger. You did get there first.
+Monkey_King/Vo_monkey_king_monkey_rival_213.wav|r Killed one kind of dragon, killed 'em all.
+Monkey_King/Vo_monkey_king_monkey_rival_214.wav|r You didn't do your homework, Wyvern.
+Monkey_King/Vo_monkey_king_monkey_rival_216.wav|r And I'm taking your monkey friend with me.
+Monkey_King/Vo_monkey_king_monkey_rival_217.wav|r In which ditch should we bury you, doctor?
+Monkey_King/Vo_monkey_king_monkey_rival_218.wav|r King? Ha!
+Monkey_King/Vo_monkey_king_monkey_rival_219.wav|r Get back up again, I dare you.
+Monkey_King/Vo_monkey_king_monkey_rival_220.wav|r You should have turned yourself into swan and hid, you bastard.
+Monkey_King/Vo_monkey_king_monkey_rival_221.wav|r As a god, Zeus, you were lacking, but this?!
+Monkey_King/Vo_monkey_king_monkey_rival_222.wav|r Zeus? Huh, never heard of him.
+Monkey_King/Vo_monkey_king_monkey_rival_223.wav|r You need to work on the fundamentals, Io.
+Monkey_King/Vo_monkey_king_monkey_rival_224.wav|r Look at that, a falling star!
+Monkey_King/Vo_monkey_king_monkey_rival_225.wav|r Stay in the ashes, Phoenix.
+Monkey_King/Vo_monkey_king_monkey_rival_226.wav|r Oh, I hate birds.
+Monkey_King/Vo_monkey_king_monkey_firstblood_02.wav|I'm just getting started!
+Monkey_King/Vo_monkey_king_monkey_firstblood_03.wav|First Blood! Ha! I'm just getting started.
+Monkey_King/Vo_monkey_king_monkey_firstblood_05.wav|First Blood! Well, today anyway.
+Monkey_King/Vo_monkey_king_monkey_firstblood_01.wav|Too easy.
+Monkey_King/Vo_monkey_king_monkey_firstblood_04.wav|First Blood! Well, not first blood, I've killed lots of people I just—well you get the idea.
+Monkey_King/Vo_monkey_king_monkey_rival_05.wav|r You should've stayed home, Apparition. You're not walking away from this.
+Monkey_King/Vo_monkey_king_monkey_rival_09.wav|r Alright fishbowl head, show me what you've got.
+Monkey_King/Vo_monkey_king_monkey_rival_11.wav|r Axe, this is the fight I've looked forward to for a long time.
+Monkey_King/Vo_monkey_king_monkey_rival_23.wav|r Your license is about to get revoked.
+Monkey_King/Vo_monkey_king_monkey_rival_25.wav|r You come at me and I'm taking your other eye.
+Monkey_King/Vo_monkey_king_monkey_rival_27.wav|r Arachnia! We end this today!
+Monkey_King/Vo_monkey_king_monkey_rival_38.wav|r That armor won't save you little man.
+Monkey_King/Vo_monkey_king_monkey_rival_42.wav|r I'm going to flatten that pointy little head of yours.
+Monkey_King/Vo_monkey_king_monkey_rival_43.wav|r Alright Dazzle, show me what you got.
+Monkey_King/Vo_monkey_king_monkey_rival_47.wav|r I like you better than Zeus, but I'm still gonna kill ya.
+Monkey_King/Vo_monkey_king_monkey_rival_55.wav|r I'll crack you in half!
+Monkey_King/Vo_monkey_king_monkey_rival_74.wav|r You can't talk your way out of this one, Invoker.
+Monkey_King/Vo_monkey_king_monkey_rival_77.wav|r Juggernaut, when I'm through with you there won't be any of your kind.
+Monkey_King/Vo_monkey_king_monkey_rival_82.wav|r Try to keep up, Kunkka.
+Monkey_King/Vo_monkey_king_monkey_rival_94.wav|r I'll send you back to hell!
+Monkey_King/Vo_monkey_king_monkey_rival_99.wav|r I'll put you down like the dog you are.
+Monkey_King/Vo_monkey_king_monkey_rival_105.wav|r Bring as many copies as you want, you're all dead!
+Monkey_King/Vo_monkey_king_monkey_rival_127.wav|r It's adorable. You think you can stop me.
+Monkey_King/Vo_monkey_king_monkey_rival_136.wav|r Here, piggy, piggy!
+Monkey_King/Vo_monkey_king_monkey_rival_143.wav|r I wish I could unsee you, Riki.
+Monkey_King/Vo_monkey_king_monkey_rival_184.wav|r I have respect for your ingenuity, Tinker. But I'm still crushing your skull.
+Monkey_King/Vo_monkey_king_monkey_ally_01.wav|r Quick question Abaddon: when you say 'Lord of Avernus' is that by birth or by marriage?
+Monkey_King/Vo_monkey_king_monkey_ally_02.wav|r Hey Abaddon, I know you got the mist thing down, but can you make clouds?
+Monkey_King/Vo_monkey_king_monkey_ally_03.wav|r So you met in jail, huh? I was stuck in solitary.
+Monkey_King/Vo_monkey_king_monkey_ally_04.wav|r Listen Ogre, some financial advice? If that little man stiffs you out of any of your money, beat him to death.
+Monkey_King/Vo_monkey_king_monkey_ally_05.wav|r Listen ghost, if you're ever gonna ask the Crystal Maiden out on that date, you better start working on those ice puns.
+Monkey_King/Vo_monkey_king_monkey_ally_06.wav|r Here's the plan: you freeze 'em, and I'll smash their face in.
+Monkey_King/Vo_monkey_king_monkey_ally_07.wav|r So when you say you'll bring an 'end to magic', you don't mean loveable talking monkey royalty right?
+Monkey_King/Vo_monkey_king_monkey_ally_08.wav|r Anti-Mage, you need to smile more.
+Monkey_King/Vo_monkey_king_monkey_ally_09.wav|r Alright, it's just a suggestion, take it or leave it at your leisure. But maybe you should start talking in the first person?
+Monkey_King/Vo_monkey_king_monkey_ally_10.wav|r Arc Warden, you're not planning on sticking me in the moon or anything like that?
+Monkey_King/Vo_monkey_king_monkey_ally_11.wav|r I think it's great you commissioned Goodkind to write about you. I mean, people talk about me for free but—good for you.
+Monkey_King/Vo_monkey_king_monkey_ally_12.wav|r Axe, you and I are gonna hurt a whole lot of people.
+Monkey_King/Vo_monkey_king_monkey_ally_13.wav|r Ya know, nightmare bringing aside, you're a pleasant guy to work with.
+Monkey_King/Vo_monkey_king_monkey_ally_14.wav|r You want a good nightmare to torment people? Have 'em trapped inside a rock. It's brutal.
+Monkey_King/Vo_monkey_king_monkey_ally_15.wav|r After the battle you mind if I take the bat for a spin?
+Monkey_King/Vo_monkey_king_monkey_ally_16.wav|r So, how long have you and the bat been an item?
+Monkey_King/Vo_monkey_king_monkey_ally_17.wav|r You like animals. I am an animal. I think you and I are gonna get along just fine.
+Monkey_King/Vo_monkey_king_monkey_ally_18.wav|r Ditch the boar, my friend. Primates are where it's at.
+Monkey_King/Vo_monkey_king_monkey_ally_19.wav|r Stick with me and you'll find all the blood you need.
+Monkey_King/Vo_monkey_king_monkey_ally_20.wav|r Bloodseeker, your work is messy but necessary.
+Monkey_King/Vo_monkey_king_monkey_ally_21.wav|r Try to keep up, Gondar!
+Monkey_King/Vo_monkey_king_monkey_ally_22.wav|r Scarves are hard to pull off, but it really works on you Bounty Hunter.
+Monkey_King/Vo_monkey_king_monkey_ally_23.wav|r Brewmaster, after we kill their Ancient, we are getting loaded.
+Monkey_King/Vo_monkey_king_monkey_ally_24.wav|r So how does one become a Brewmaster? Is it hours as an apprentice? An accredited course? Self given title?
+Monkey_King/Vo_monkey_king_monkey_ally_25.wav|r When this is all over you, me, and Brewmaster should just get loaded and pick some fights.
+Monkey_King/Vo_monkey_king_monkey_ally_26.wav|r Oh, I wish I could have seen that bar fight between you and Tusk.
+Monkey_King/Vo_monkey_king_monkey_ally_27.wav|r Let's just get through this Arachnia.
+Monkey_King/Vo_monkey_king_monkey_ally_28.wav|r Would it kill you to walk around like how we first met?
+Monkey_King/Vo_monkey_king_monkey_ally_29.wav|r Nice belt. What does it do?
+Monkey_King/Vo_monkey_king_monkey_ally_30.wav|r Centaur, you should really climb a tree sometime, you don't know what you're missing
+Monkey_King/Vo_monkey_king_monkey_ally_31.wav|r Me, you, and Phantom Lancer should start up an illusory exclusive club.
+Monkey_King/Vo_monkey_king_monkey_ally_32.wav|r Nice horse.
+Monkey_King/Vo_monkey_king_monkey_ally_33.wav|r Just promise me you won't control me, okay Chen?
+Monkey_King/Vo_monkey_king_monkey_ally_34.wav|r Ethically speaking, how are you okay with marching helpless creatures off to their demise?
+Monkey_King/Vo_monkey_king_monkey_ally_35.wav|r You mind if I call you Bones? Because whenever I hear Clinkz I start looking for a clockwork creature and I get really confused.
+Monkey_King/Vo_monkey_king_monkey_ally_36.wav|r You're a hero Clinkz. Not enough people give you credit for that.
+Monkey_King/Vo_monkey_king_monkey_ally_38.wav|r You lock 'em down tin man, I'll take care of the rest
+Monkey_King/Vo_monkey_king_monkey_ally_39.wav|r Hey Rylai, you think you could introduce me to Lina?
+Monkey_King/Vo_monkey_king_monkey_ally_40.wav|r Alright Maiden, let's have some fun.
+Monkey_King/Vo_monkey_king_monkey_ally_41.wav|r You think too much Dark Seer. Try living by instinct sometimes.
+Monkey_King/Vo_monkey_king_monkey_ally_42.wav|r A plan is a list of things that don't happen, Dark Seer. Live in the moment.
+Monkey_King/Vo_monkey_king_monkey_ally_43.wav|r Dazzle: you keep me alive and I'll keep knockin' em in the dirt.
+Monkey_King/Vo_monkey_king_monkey_ally_44.wav|r Alright Shadow Priest, try to keep up!
+Monkey_King/Vo_monkey_king_monkey_ally_45.wav|r Prophet, I get that it's your thing, but try not to die, okay?
+Monkey_King/Vo_monkey_king_monkey_ally_46.wav|r Lady, you're creeping me out.
+Monkey_King/Vo_monkey_king_monkey_ally_47.wav|r Hey Disruptor, you're with me that Zeus is a jerk, right?
+Monkey_King/Vo_monkey_king_monkey_ally_49.wav|r Doom, huh? Your mom musta loved you.
+Monkey_King/Vo_monkey_king_monkey_ally_50.wav|r So, Doom. The Seven Hells. That sounds cozy.
+Monkey_King/Vo_monkey_king_monkey_ally_51.wav|r Half dragon, my cloud's in the shop. Can I ride you into battle?
+Monkey_King/Vo_monkey_king_monkey_ally_52.wav|r Let me know when you turn into a dragon and kill everyone. I love that part.
+Monkey_King/Vo_monkey_king_monkey_ally_53.wav|r Hey Traxex, I don't know what that other archer was talking about, you're not an emotionally vacant husk of perpetual sadness.
+Monkey_King/Vo_monkey_king_monkey_ally_54.wav|r I don't want to stick my nose in Ranger business, but that redhead wasn't saying the most kind things about you.
+Monkey_King/Vo_monkey_king_monkey_ally_55.wav|r Just stay away from me, Kaolin.
+Monkey_King/Vo_monkey_king_monkey_ally_56.wav|r Don't talk to me and we won't have any problems, Earth Spirit.
+Monkey_King/Vo_monkey_king_monkey_ally_57.wav|r What's up with the Earth trying to keep guys like us down?
+Monkey_King/Vo_monkey_king_monkey_ally_58.wav|r We should start up an 'imprisoned in earth' support group.
+Monkey_King/Vo_monkey_king_monkey_ally_59.wav|r So, Elder Titan. You're really old.
+Monkey_King/Vo_monkey_king_monkey_ally_60.wav|r Alright, old man Titan, watch and see how it's done.
+Monkey_King/Vo_monkey_king_monkey_ally_61.wav|r When this is over we're gonna have a chat about what you did.
+Monkey_King/Vo_monkey_king_monkey_ally_62.wav|r You and your brothers are dead to me Xin.
+Monkey_King/Vo_monkey_king_monkey_ally_63.wav|r Not gonna lie, Enchantress. Aside from Monkeys, I kind of hate animals.
+Monkey_King/Vo_monkey_king_monkey_ally_64.wav|r Enchantress, you are impossibly cheerful.
+Monkey_King/Vo_monkey_king_monkey_ally_65.wav|r Enigma, you are one scary force of nature.
+Monkey_King/Vo_monkey_king_monkey_ally_66.wav|r Hey Enigma, remember when you tricked that Alchemist? Oh, ha! Good times.
+Monkey_King/Vo_monkey_king_monkey_ally_67.wav|r I think I liked you better as a dinosaur.
+Monkey_King/Vo_monkey_king_monkey_ally_68.wav|r Excuse me, Mr. Void—is the Monkey Kingdom bound by the Clazemere Treaty?
+Monkey_King/Vo_monkey_king_monkey_ally_69.wav|r You are an annoying little man in an annoying little plane.
+Monkey_King/Vo_monkey_king_monkey_ally_70.wav|r I hate you Gyrocopter.
+Monkey_King/Vo_monkey_king_monkey_ally_71.wav|r You and Dazzle should really just have a drink and hug it out.
+Monkey_King/Vo_monkey_king_monkey_ally_72.wav|r Huskar, I'm not trying to tell you how to live your life, but getting sacrificed is a bad thing.
+Monkey_King/Vo_monkey_king_monkey_ally_73.wav|r I know a thing or two about egomaniacs: and Invoker, you're one of the worst.
+Monkey_King/Vo_monkey_king_monkey_ally_74.wav|r We get it Invoker, you're smart. Now can we kill these guys?
+Monkey_King/Vo_monkey_king_monkey_ally_75.wav|r Jakiro, Dragon Knight won't play ball. But you'll let me ride you, right?
+Monkey_King/Vo_monkey_king_monkey_ally_76.wav|r Glad you're on our side Jakiro.
+Monkey_King/Vo_monkey_king_monkey_ally_77.wav|r You gotta tell me what happened on the Isle of Masks.
+Monkey_King/Vo_monkey_king_monkey_ally_78.wav|r Juggernaut, is it true you and Templar Assassin used to be a thing?
+Monkey_King/Vo_monkey_king_monkey_ally_79.wav|r You gotta show me how to do that lightshow trick, Ezalor.
+Monkey_King/Vo_monkey_king_monkey_ally_80.wav|r Keeper, I was thinking next Thursday would be a good day for my 'fundamental ascension' ceremony, that work for you?
+Monkey_King/Vo_monkey_king_monkey_ally_81.wav|r Kunkka, I'm not trying to be rude, but you got something on your forehead.
+Monkey_King/Vo_monkey_king_monkey_ally_82.wav|r Let's do this Kunkka.
+Monkey_King/Vo_monkey_king_monkey_ally_83.wav|r You realize you basically named your Legion 'Third Place', right?
+Monkey_King/Vo_monkey_king_monkey_ally_84.wav|r Tresdin, I don't care what armies you've lead. You don't tell me what to do.
+Monkey_King/Vo_monkey_king_monkey_ally_85.wav|r Great. Another old guy that throws lightning around.
+Monkey_King/Vo_monkey_king_monkey_ally_86.wav|r Just try not to electrocute me, okay Leshrac?
+Monkey_King/Vo_monkey_king_monkey_ally_87.wav|r Ya know, for a mage that's cheated death you're... personable?
+Monkey_King/Vo_monkey_king_monkey_ally_88.wav|r You don't really warm up to people much, do you Lich?
+Monkey_King/Vo_monkey_king_monkey_ally_89.wav|r Lifestealer, is that a family name? Or more of an occupation, like haberdasher?
+Monkey_King/Vo_monkey_king_monkey_ally_90.wav|r So, you were in prison a long time. Got any good stories?
+Monkey_King/Vo_monkey_king_monkey_ally_91.wav|r Hey Lina, after we win can I buy you a drink?
+Monkey_King/Vo_monkey_king_monkey_ally_92.wav|r Soooo Lina. Your sister tell you about me?
+Monkey_King/Vo_monkey_king_monkey_ally_93.wav|r Lion, your name is very misleading.
+Monkey_King/Vo_monkey_king_monkey_ally_94.wav|r So, Demon Witch, that's a helluva title.
+Monkey_King/Vo_monkey_king_monkey_ally_95.wav|r So are you 'Lone Druid' because you're the last druid? Or because you hate hanging out with other Druids?
+Monkey_King/Vo_monkey_king_monkey_ally_96.wav|r Sylla; you, me, and that bear of yours are gonna win this battle.
+Monkey_King/Vo_monkey_king_monkey_ally_97.wav|r Hey Luna, nice wolf.
+Monkey_King/Vo_monkey_king_monkey_ally_98.wav|r We should go on a moonlit walk sometime. You know, after we kill a whole lot of people.
+Monkey_King/Vo_monkey_king_monkey_ally_99.wav|r Lycan, you gotta step up your transformation game.
+Monkey_King/Vo_monkey_king_monkey_ally_100.wav|r I'll help you reclaim Ambry, Lycan.
+Monkey_King/Vo_monkey_king_monkey_ally_101.wav|r You are a large man, Magnus.
+Monkey_King/Vo_monkey_king_monkey_ally_102.wav|r Hey Magnus, I want to start up a conservation group, you in?
+Monkey_King/Vo_monkey_king_monkey_ally_103.wav|r I saw you and Zeus at the Sundered Moon the other night, he's married you know.
+Monkey_King/Vo_monkey_king_monkey_ally_104.wav|r So, does your hair ever get tangles? Or does it always just look good?
+Monkey_King/Vo_monkey_king_monkey_ally_105.wav|r You're underrated Meepo.
+Monkey_King/Vo_monkey_king_monkey_ally_106.wav|r Guys like us gotta stick together, Meepo.
+Monkey_King/Vo_monkey_king_monkey_ally_108.wav|r I summered in Nightsilver before. Lovely trees.
+Monkey_King/Vo_monkey_king_monkey_ally_109.wav|r Try not to get me wet, Morphling.
+Monkey_King/Vo_monkey_king_monkey_ally_110.wav|r Morphling, you are a lot more intimidating in person than your name suggests.
+Monkey_King/Vo_monkey_king_monkey_ally_111.wav|r You got a helluva voice Siren.
+Monkey_King/Vo_monkey_king_monkey_ally_112.wav|r The Deep Ones are lucky to have you on their side.
+Monkey_King/Vo_monkey_king_monkey_ally_113.wav|r Just don't go moving the trees when I need 'em, Prophet.
+Monkey_King/Vo_monkey_king_monkey_ally_114.wav|r Forcing trees to fight goes against their nature, Prophet.
+Monkey_King/Vo_monkey_king_monkey_ally_115.wav|r Ugh! Cover your mouth when you cough, Necrophos. You disgust me.
+Monkey_King/Vo_monkey_king_monkey_ally_116.wav|r Don't steal my kills and we'll get along just fine.
+Monkey_King/Vo_monkey_king_monkey_ally_117.wav|r I guess you're not useless half the time, Night Stalker. That's pretty good.
+Monkey_King/Vo_monkey_king_monkey_ally_118.wav|r Do we really have to wait til night to start fighting?
+Monkey_King/Vo_monkey_king_monkey_ally_119.wav|r Who invited the zealot?
+Monkey_King/Vo_monkey_king_monkey_ally_120.wav|r Nyx, I don't wanna see you this battle.
+Monkey_King/Vo_monkey_king_monkey_ally_121.wav|r So, do both heads need to eat?
+Monkey_King/Vo_monkey_king_monkey_ally_122.wav|r You're lucky you know, one of you can focus on the battle and the other can watch me be fantastic.
+Monkey_King/Vo_monkey_king_monkey_ally_123.wav|r You've taken the power, Omniknight. It's yours. Stop kowtowing.
+Monkey_King/Vo_monkey_king_monkey_ally_124.wav|r Your powers may be real, but I've never seen this Omniscience.
+Monkey_King/Vo_monkey_king_monkey_ally_125.wav|r Never tell me the odds.
+Monkey_King/Vo_monkey_king_monkey_ally_126.wav|r I can see the future, too, Oracle. It looks like victory.
+Monkey_King/Vo_monkey_king_monkey_ally_127.wav|r Just so you know, I have a strict no-Astral-Imprisonment policy.
+Monkey_King/Vo_monkey_king_monkey_ally_128.wav|r Stop looking at me like that.
+Monkey_King/Vo_monkey_king_monkey_ally_129.wav|r Just admit it, Phantom Assassin, you kill because you like it.
+Monkey_King/Vo_monkey_king_monkey_ally_130.wav|r I'm not one of the five names on the list right?
+Monkey_King/Vo_monkey_king_monkey_ally_131.wav|r You're a handsome fellow!
+Monkey_King/Vo_monkey_king_monkey_ally_132.wav|r It's quite the honor to be mistaken for me.
+Monkey_King/Vo_monkey_king_monkey_ally_133.wav|r Where is that Undertree, Puck? I might like to climb it.
+Monkey_King/Vo_monkey_king_monkey_ally_134.wav|r You should become my plucky sidekick, Puck.
+Monkey_King/Vo_monkey_king_monkey_ally_135.wav|r Old friend! Oh. I thought you were someone else.
+Monkey_King/Vo_monkey_king_monkey_ally_136.wav|r Do me a favor and try not to get pus on me.
+Monkey_King/Vo_monkey_king_monkey_ally_137.wav|r Strange bedfellows, huh Pugna?
+Monkey_King/Vo_monkey_king_monkey_ally_138.wav|r No, I don't want to see your Nether Ward. Stop asking.
+Monkey_King/Vo_monkey_king_monkey_ally_139.wav|r Sorry Akasha, I'm not looking for a Queen.
+Monkey_King/Vo_monkey_king_monkey_ally_140.wav|r You and Ostarion would make a helluva power couple.
+Monkey_King/Vo_monkey_king_monkey_ally_141.wav|r For someone without a discernible face, Razor, you sure look smug.
+Monkey_King/Vo_monkey_king_monkey_ally_142.wav|r Be careful Razor, one day that whip will be turned on you.
+Monkey_King/Vo_monkey_king_monkey_ally_143.wav|r Didn't think I'd be seeing you here, Riki.
+Monkey_King/Vo_monkey_king_monkey_ally_144.wav|r I'm friends with an alarming amount of assassins.
+Monkey_King/Vo_monkey_king_monkey_ally_145.wav|r How about a friendly duel, Rubick? I've heard some things.
+Monkey_King/Vo_monkey_king_monkey_ally_146.wav|r Us tricksters need to stick together, eh, Rubick?
+Monkey_King/Vo_monkey_king_monkey_ally_147.wav|r Fighting by your side goes against every instinct I have.
+Monkey_King/Vo_monkey_king_monkey_ally_148.wav|r I know a fellow you should talk to, Sand King. Fast friends, the two of you.
+Monkey_King/Vo_monkey_king_monkey_ally_149.wav|r A demon watching my back. There's a first time for everything.
+Monkey_King/Vo_monkey_king_monkey_ally_150.wav|r I'm something of a demon myself, you know.
+Monkey_King/Vo_monkey_king_monkey_ally_151.wav|r Keep your hands off my soul and we'll get along just fine.
+Monkey_King/Vo_monkey_king_monkey_ally_152.wav|r I'm not afraid to name you friend, Shadow Fiend.
+Monkey_King/Vo_monkey_king_monkey_ally_153.wav|r I'm a fan of your work Shaman, a good con is a thing of beauty.
+Monkey_King/Vo_monkey_king_monkey_ally_154.wav|r Are your grifting days all behind you, Shadow Shaman?
+Monkey_King/Vo_monkey_king_monkey_ally_155.wav|r I'll do the talking, Silencer.
+Monkey_King/Vo_monkey_king_monkey_ally_156.wav|r Your voice really carries, Silencer. A bit too much.
+Monkey_King/Vo_monkey_king_monkey_ally_157.wav|r Are all birdmen this morose? Just you?
+Monkey_King/Vo_monkey_king_monkey_ally_158.wav|r Know your problem? Too subservient. Be your own birdman for once.
+Monkey_King/Vo_monkey_king_monkey_ally_159.wav|r You're the ugliest thing I've ever seen, Slardar. No offense.
+Monkey_King/Vo_monkey_king_monkey_ally_160.wav|r I think I like hanging out with Siren better.
+Monkey_King/Vo_monkey_king_monkey_ally_161.wav|r You get inked in Dark Reef?
+Monkey_King/Vo_monkey_king_monkey_ally_162.wav|r They don't know what it's like inside. Right, Slark?
+Monkey_King/Vo_monkey_king_monkey_ally_163.wav|r Careful not to shoot me in the back, Sniper.
+Monkey_King/Vo_monkey_king_monkey_ally_164.wav|r Just stay away from my kills, Sniper.
+Monkey_King/Vo_monkey_king_monkey_ally_165.wav|r If you need help, Spectre, just shout unintelligibly.
+Monkey_King/Vo_monkey_king_monkey_ally_166.wav|r We gotta work on your communication skills, Spectre.
+Monkey_King/Vo_monkey_king_monkey_ally_167.wav|r Don't go running off without me, Spirit Breaker.
+Monkey_King/Vo_monkey_king_monkey_ally_168.wav|r You're almost crazier than I am, Spirit Breaker.
+Monkey_King/Vo_monkey_king_monkey_ally_169.wav|r I've seen Xin and Kaolin. Where's your other brother?
+Monkey_King/Vo_monkey_king_monkey_ally_170.wav|r Just make me a damn cloud.
+Monkey_King/Vo_monkey_king_monkey_ally_171.wav|r How do you see anything with that helmet on, Sven?
+Monkey_King/Vo_monkey_king_monkey_ally_172.wav|r Come on, Sven. Time to drop the hammer on someone!
+Monkey_King/Vo_monkey_king_monkey_ally_173.wav|r Wanna spring some traps, Techies?
+Monkey_King/Vo_monkey_king_monkey_ally_174.wav|r I'll line 'em up, Techies. You'll know when to press the button.
+Monkey_King/Vo_monkey_king_monkey_ally_175.wav|r What happened with you and Juggernaut?
+Monkey_King/Vo_monkey_king_monkey_ally_176.wav|r I thought all this Ancients business was beneath you, Lanaya.
+Monkey_King/Vo_monkey_king_monkey_ally_177.wav|r Why do you spend so much time in your lesser form, Terrorblade?
+Monkey_King/Vo_monkey_king_monkey_ally_178.wav|r I've seen my fair share of demonic brotherhoods. They might have considered you.
+Monkey_King/Vo_monkey_king_monkey_ally_179.wav|r Just watch it with the splashing, Tidehunter.
+Monkey_King/Vo_monkey_king_monkey_ally_180.wav|r Just jump in there and do your thing, Tidehunter. I'm right behind you.
+Monkey_King/Vo_monkey_king_monkey_ally_181.wav|r We talked about this, Timbersaw. No clearcutting!
+Monkey_King/Vo_monkey_king_monkey_ally_182.wav|r If I can't leap to the fight, Timbersaw, you know who to blame.
+Monkey_King/Vo_monkey_king_monkey_ally_183.wav|r So Tinker, was it head trauma that made you dream all that up?
+Monkey_King/Vo_monkey_king_monkey_ally_184.wav|r I can appreciate a man unconstrained by what the world tells him's possible.
+Monkey_King/Vo_monkey_king_monkey_ally_185.wav|r So Tiny's just a not-so-clever name then.
+Monkey_King/Vo_monkey_king_monkey_ally_186.wav|r We've actually got something in common, Tiny. What kind of stone are you?
+Monkey_King/Vo_monkey_king_monkey_ally_187.wav|r The trees respect you, Treant, but they love me.
+Monkey_King/Vo_monkey_king_monkey_ally_188.wav|r Yes, yes, Treant. I remember. No climbing.
+Monkey_King/Vo_monkey_king_monkey_ally_189.wav|r I didn't think you went in for team sports, Troll.
+Monkey_King/Vo_monkey_king_monkey_ally_190.wav|r My friend Breklin is a big fan of your work, Warlord.
+Monkey_King/Vo_monkey_king_monkey_ally_191.wav|r Tusk! I like a fellow who does what he says and says what he does.
+Monkey_King/Vo_monkey_king_monkey_ally_192.wav|r So, Tusk. What can you tell me about Rylai?
+Monkey_King/Vo_monkey_king_monkey_ally_193.wav|r Where we going today, Underlord?
+Monkey_King/Vo_monkey_king_monkey_ally_194.wav|r What's the worst place you've accidentally rifted to?
+Monkey_King/Vo_monkey_king_monkey_ally_195.wav|r I think there are better ways to do it, Undying, but to each his own.
+Monkey_King/Vo_monkey_king_monkey_ally_196.wav|r Undying? Yeah, me too.
+Monkey_King/Vo_monkey_king_monkey_ally_197.wav|r Ursa! I welcome you to my fight.
+Monkey_King/Vo_monkey_king_monkey_ally_198.wav|r The world needs more bears like you, Ursa.
+Monkey_King/Vo_monkey_king_monkey_ally_199.wav|r I'm with you - I like making people pay for what they did too.
+Monkey_King/Vo_monkey_king_monkey_ally_200.wav|r I like a lady that goes after what she wants.
+Monkey_King/Vo_monkey_king_monkey_ally_201.wav|r You should visit my Kingdom sometime.
+Monkey_King/Vo_monkey_king_monkey_ally_202.wav|r Just try not to spit on me, ok?
+Monkey_King/Vo_monkey_king_monkey_ally_203.wav|r You're not exciting, Viper, but you sure get the job done.
+Monkey_King/Vo_monkey_king_monkey_ally_204.wav|r You're Viper? Don't look like one to me.
+Monkey_King/Vo_monkey_king_monkey_ally_205.wav|r Send your birds aloft, Visage. Let's find some prey.
+Monkey_King/Vo_monkey_king_monkey_ally_206.wav|r Don't have to worry about me, Visage. I won't be traversing the Narrow Maze.
+Monkey_King/Vo_monkey_king_monkey_ally_207.wav|r Can I borrow that book when you're done with it, Warlock?
+Monkey_King/Vo_monkey_king_monkey_ally_208.wav|r I always did enjoy a good demon story.
+Monkey_King/Vo_monkey_king_monkey_ally_209.wav|r No hard feelings, right, Weaver?
+Monkey_King/Vo_monkey_king_monkey_ally_210.wav|r Weaver, don't let the bastards keep you down.
+Monkey_King/Vo_monkey_king_monkey_ally_211.wav|r You don't fool me, Lyralei. I see the killer behind that smile.
+Monkey_King/Vo_monkey_king_monkey_ally_212.wav|r I don't know what Traxex was talking about, you're not completely useless at all.
+Monkey_King/Vo_monkey_king_monkey_ally_213.wav|r Tell me, Wyvern, which story about me is your favorite?
+Monkey_King/Vo_monkey_king_monkey_ally_214.wav|r Wyvern, my life is poetry.
+Monkey_King/Vo_monkey_king_monkey_ally_215.wav|r I like your style, Witch Doctor.
+Monkey_King/Vo_monkey_king_monkey_ally_216.wav|r What's in that cask, anyway, Witch Doctor?
+Monkey_King/Vo_monkey_king_monkey_ally_217.wav|r We might as well make the best of it, Ostarion.
+Monkey_King/Vo_monkey_king_monkey_ally_218.wav|r I'll fight beside you, but I'm not callin' you king, Wraith.
+Monkey_King/Vo_monkey_king_monkey_ally_219.wav|r It's no secret I don't like you, Zeus. Well, it isn't a secret now. That didn't go as planned.
+Monkey_King/Vo_monkey_king_monkey_ally_220.wav|r It's okay, Zeus. You're one of the good ones. Today.
+Monkey_King/Vo_monkey_king_monkey_ally_221.wav|r Not much of a conversationalist, eh, Io?
+Monkey_King/Vo_monkey_king_monkey_ally_222.wav|r Don't take this the wrong way, Phoenix, but if one of us has to die, I'd rather it be you.
+Monkey_King/Vo_monkey_king_monkey_lasthit_02.wav|Ha!
+Monkey_King/Vo_monkey_king_monkey_lasthit_03.wav|Too easy!
+Monkey_King/Vo_monkey_king_monkey_lasthit_04.wav|Where's that gold.
+Monkey_King/Vo_monkey_king_monkey_lasthit_06.wav|Alright.
+Monkey_King/Vo_monkey_king_monkey_lasthit_08.wav|Don't mind if I do.
+Monkey_King/Vo_monkey_king_monkey_lasthit_10.wav|I love that sound.
+Monkey_King/Vo_monkey_king_monkey_lasthit_13.wav|That's right.
+Monkey_King/Vo_monkey_king_monkey_lasthit_14.wav|Perfect.
+Monkey_King/Vo_monkey_king_monkey_lasthit_15.wav|Naturally.
+Monkey_King/Vo_monkey_king_monkey_lasthit_19.wav|Hahaha!
+Monkey_King/Vo_monkey_king_monkey_lasthit_01.wav|I'll take that.
+Monkey_King/Vo_monkey_king_monkey_lasthit_16.wav|120 Fit for a monkey's paw.
+Monkey_King/Vo_monkey_king_monkey_lasthit_18.wav|120 That's how it's done!
+Monkey_King/Vo_monkey_king_monkey_lasthit_22.wav|r Mmhmm.
+Monkey_King/Vo_monkey_king_monkey_lasthit_05.wav|I'm collecting my tithe.
+Monkey_King/Vo_monkey_king_monkey_lasthit_07.wav|Time to go shopping.
+Monkey_King/Vo_monkey_king_monkey_lasthit_09.wav|I could do this all day.
+Monkey_King/Vo_monkey_king_monkey_lasthit_11.wav|120 Next!
+Monkey_King/Vo_monkey_king_monkey_lasthit_17.wav|r That's what I like to hear.
+Monkey_King/Vo_monkey_king_monkey_lasthit_12.wav|r Goooold! Hohohohoo.
+Monkey_King/Vo_monkey_king_monkey_deny_01.wav|I don't think so.
+Monkey_King/Vo_monkey_king_monkey_deny_02.wav|Nu-uh.
+Monkey_King/Vo_monkey_king_monkey_deny_04.wav|So sorry.
+Monkey_King/Vo_monkey_king_monkey_deny_06.wav|Whoops.
+Monkey_King/Vo_monkey_king_monkey_deny_07.wav|Back off!
+Monkey_King/Vo_monkey_king_monkey_deny_09.wav|Not so fast.
+Monkey_King/Vo_monkey_king_monkey_deny_13.wav|Heh.
+Monkey_King/Vo_monkey_king_monkey_deny_15.wav|Denied!
+Monkey_King/Vo_monkey_king_monkey_deny_16.wav|How's it feel?
+Monkey_King/Vo_monkey_king_monkey_deny_17.wav|Sorry about that.
+Monkey_King/Vo_monkey_king_monkey_deny_18.wav|240 I'm here all week.
+Monkey_King/Vo_monkey_king_monkey_grunts_05.wav|120 Hm hmm!
+Monkey_King/Vo_monkey_king_monkey_deny_12.wav|240 I take what I please.
+Monkey_King/Vo_monkey_king_monkey_ability2_15.wav|No!
+Monkey_King/Vo_monkey_king_monkey_deny_05.wav|r You thought you were winning?
+Monkey_King/Vo_monkey_king_monkey_deny_11.wav|240 Unorthodox, but effective.
+Monkey_King/Vo_monkey_king_monkey_deny_10.wav|240 Not on my watch.
+Monkey_King/Vo_monkey_king_monkey_deny_14.wav|r Times are hard. For you.
+Monkey_King/Vo_monkey_king_monkey_ability2_13.wav|Nope! Don't think so.
+Monkey_King/Vo_monkey_king_monkey_ability2_11.wav|Aha! No you don't.
+Monkey_King/Vo_monkey_king_monkey_deny_08.wav|r You're not getting what you came for!
+Monkey_King/Vo_monkey_king_monkey_deny_brood_01.wav|u I'll pretend I didn't enjoy this.
+Monkey_King/Vo_monkey_king_monkey_purch_01.wav|r Oh yeah.
+Monkey_King/Vo_monkey_king_monkey_purch_02.wav|r This is gonna be good.
+Monkey_King/Vo_monkey_king_monkey_purch_03.wav|r Earning the money is fun, but spending it is even better.
+Monkey_King/Vo_monkey_king_monkey_purch_04.wav|r Time to get back in the fight.
+Monkey_King/Vo_monkey_king_monkey_purch_05.wav|r This could change the tide of the fight.
+Monkey_King/Vo_monkey_king_monkey_scepter_01.wav|r It's not my staff, but it'll do.
+Monkey_King/Vo_monkey_king_monkey_scepter_02.wav|r Hello beautiful.
+Monkey_King/Vo_monkey_king_monkey_scepter_03.wav|r Ooh. Scepter!
+Monkey_King/Vo_monkey_king_monkey_blink_01.wav|r Blink dagger!
+Monkey_King/Vo_monkey_king_monkey_blink_02.wav|r They're really going to hate me now.
+Monkey_King/Vo_monkey_king_monkey_item_01.wav|r Scythe of Vyse!
+Monkey_King/Vo_monkey_king_monkey_item_02.wav|r Linken's Sphere!
+Monkey_King/Vo_monkey_king_monkey_item_03.wav|r Dagon!
+Monkey_King/Vo_monkey_king_monkey_item_04.wav|r Divine Scepter!
+Monkey_King/Vo_monkey_king_monkey_item_05.wav|r Orchid Malevolence!
+Monkey_King/Vo_monkey_king_monkey_item_06.wav|r Shiva's Guard!
+Monkey_King/Vo_monkey_king_monkey_item_07.wav|r Force Staff!
+Monkey_King/Vo_monkey_king_monkey_item_08.wav|r Satanic.
+Monkey_King/Vo_monkey_king_monkey_item_09.wav|r Heart of Tarrasque.
+Monkey_King/Vo_monkey_king_monkey_item_10.wav|r Sweet Bloodthorn!
+Monkey_King/Vo_monkey_king_monkey_item_11.wav|r Octarine Core.
+Monkey_King/Vo_monkey_king_monkey_item_12.wav|r Mjollnir.
+Monkey_King/Vo_monkey_king_monkey_item_13.wav|r Assault Cuirass.
+Monkey_King/Vo_monkey_king_monkey_item_14.wav|r Abyssal Blade.
+Monkey_King/Vo_monkey_king_monkey_item_15.wav|r Yes! Basher.
+Monkey_King/Vo_monkey_king_monkey_item_16.wav|r Radiance!
+Monkey_King/Vo_monkey_king_monkey_item_17.wav|r Eye of Skadi.
+Monkey_King/Vo_monkey_king_monkey_item_18.wav|r Hurricane Pike? Where am I going with this?
+Monkey_King/Vo_monkey_king_monkey_item_21.wav|r Refresher Orb.
+Monkey_King/Vo_monkey_king_monkey_item_23.wav|r Butterfly.
+Monkey_King/Vo_monkey_king_monkey_item_24.wav|r Hand of Midas. Timely.
+Monkey_King/Vo_monkey_king_monkey_item_25.wav|r Manta Style.
+Monkey_King/Vo_monkey_king_monkey_item_26.wav|r Daedalus.
+Monkey_King/Vo_monkey_king_monkey_item_27.wav|r Desolator.
+Monkey_King/Vo_monkey_king_monkey_item_28.wav|r Diffusal Blade.
+Monkey_King/Vo_monkey_king_monkey_item_29.wav|r A two for one deal.
+Monkey_King/Vo_monkey_king_monkey_item_30.wav|r Shadow Blade.
+Monkey_King/Vo_monkey_king_monkey_item_31.wav|r Heaven's Halberd.
+Monkey_King/Vo_monkey_king_monkey_item_32.wav|r My Bar!
+Monkey_King/Vo_monkey_king_monkey_item_33.wav|r My Staff!
+Monkey_King/Vo_monkey_king_monkey_item_34.wav|r I have to pay for this?!
+Monkey_King/Vo_monkey_king_monkey_item_35.wav|r Together again.
+Monkey_King/Vo_monkey_king_monkey_item_36.wav|r Black King Bar.
+Monkey_King/Vo_monkey_king_monkey_item_37.wav|r Gem of True Sight.
+Monkey_King/Vo_monkey_king_monkey_item_38.wav|r Enough already.
+Monkey_King/Vo_monkey_king_monkey_item_39.wav|r Sange and Yasha.
+Monkey_King/Vo_monkey_king_monkey_item_40.wav|r Wards! How magnanimous.
+Monkey_King/Vo_monkey_king_monkey_item_41.wav|r Divine Rapier.
+Monkey_King/Vo_monkey_king_monkey_smoke_01.wav|r Smoke?! G'ah.
+Monkey_King/Vo_monkey_king_monkey_grunts_07.wav|r Eyah!
+Monkey_King/Vo_monkey_king_monkey_immort_01.wav|I am immortal!
+Monkey_King/Vo_monkey_king_monkey_immort_02.wav|That's another challenge off the bucket list.
+Monkey_King/Vo_monkey_king_monkey_immort_03.wav|Immortality suits me.
+Monkey_King/Vo_monkey_king_monkey_immort_04.wav|Thanks Roshan.
+Monkey_King/Vo_monkey_king_monkey_item_42.wav|r HmHmHmm! Divine Rapier.
+Monkey_King/Vo_monkey_king_monkey_item_19.wav|r Divine Rapier. I better not drop this.
+Monkey_King/Vo_monkey_king_monkey_levelup_04.wav|This battle isn't over yet.
+Monkey_King/Vo_monkey_king_monkey_death_01.wav|Ok, that was unexpected.
+Monkey_King/Vo_monkey_king_monkey_death_02.wav|Damn it!
+Monkey_King/Vo_monkey_king_monkey_death_04.wav|I'll come back stronger.
+Monkey_King/Vo_monkey_king_monkey_death_05.wav|I won't give up.
+Monkey_King/Vo_monkey_king_monkey_death_06.wav|This isn't the end...
+Monkey_King/Vo_monkey_king_monkey_death_07.wav|I'll remember this.
+Monkey_King/Vo_monkey_king_monkey_death_08.wav|I'll make you pay for this!
+Monkey_King/Vo_monkey_king_monkey_death_09.wav|No!
+Monkey_King/Vo_monkey_king_monkey_death_10.wav|Impossible!
+Monkey_King/Vo_monkey_king_monkey_death_11.wav|It can't be!
+Monkey_King/Vo_monkey_king_monkey_death_12.wav|I was defeated by them?!
+Monkey_King/Vo_monkey_king_monkey_death_13.wav|That didn't happen!
+Monkey_King/Vo_monkey_king_monkey_death_14.wav|No one does this to me!
+Monkey_King/Vo_monkey_king_monkey_death_15.wav|I want a rematch.
+Monkey_King/Vo_monkey_king_monkey_respawn_01.wav|This journey isn't over yet.
+Monkey_King/Vo_monkey_king_monkey_respawn_02.wav|That won't happen again.
+Monkey_King/Vo_monkey_king_monkey_respawn_04.wav|Good thing I erased my name from that book.
+Monkey_King/Vo_monkey_king_monkey_respawn_05.wav|There's still time to win this.
+Monkey_King/Vo_monkey_king_monkey_respawn_06.wav|Looks like I'm gonna have to teach people some manners.
+Monkey_King/Vo_monkey_king_monkey_respawn_07.wav|No one kills the King and gets away with it.
+Monkey_King/Vo_monkey_king_monkey_respawn_08.wav|Good thing I ate those peaches before I came here.
+Monkey_King/Vo_monkey_king_monkey_respawn_09.wav|Get it together Wukong.
+Monkey_King/Vo_monkey_king_monkey_respawn_10.wav|I just cheated death, you'd think I'd get a little fanfare.
+Monkey_King/Vo_monkey_king_monkey_respawn_11.wav|Time to get to work.
+Monkey_King/Vo_monkey_king_monkey_respawn_12.wav|Okay, I'll admit it, that was a cute trick. Won't work again though.
+Monkey_King/Vo_monkey_king_monkey_respawn_13.wav|A minor setback.
+Monkey_King/Vo_monkey_king_monkey_respawn_14.wav|That's a strange feeling.
+Monkey_King/Vo_monkey_king_monkey_respawn_16.wav|Nothing will keep me down.
+Monkey_King/Vo_monkey_king_monkey_fastres_01.wav|You think you can kill me?!
+Monkey_King/Vo_monkey_king_monkey_bottle_02.wav|This'll come in handy.
+Monkey_King/Vo_monkey_king_monkey_bottle_03.wav|Oh, can't wait to use this.
+Monkey_King/Vo_monkey_king_monkey_bottle_04.wav|Mm. I'll use you later.
+Monkey_King/Vo_monkey_king_monkey_bottle_07.wav|u Things are about to get exciting.
+Monkey_King/Vo_monkey_king_monkey_bottle_08.wav|u Let's see what this does.
+Monkey_King/Vo_monkey_king_monkey_bottle_09.wav|u Know what I can do with this?
+Monkey_King/Vo_monkey_king_monkey_arcane_01.wav|Oooooo.
+Monkey_King/Vo_monkey_king_monkey_arcane_03.wav|240 Arcane Power!
+Monkey_King/Vo_monkey_king_monkey_arcane_02.wav|120 Shiny.
+Monkey_King/Vo_monkey_king_monkey_bounty_01.wav|Excellent.
+Monkey_King/Vo_monkey_king_monkey_bounty_02.wav|This'll come in handy.
+Monkey_King/Vo_monkey_king_monkey_bounty_03.wav|Bounty.
+Monkey_King/Vo_monkey_king_monkey_doubledam_01.wav|I am mighty.
+Monkey_King/Vo_monkey_king_monkey_doubledam_02.wav|Nothing will stand in my way.
+Monkey_King/Vo_monkey_king_monkey_doubledam_03.wav|Double Damage!
+Monkey_King/Vo_monkey_king_monkey_haste_01.wav|Time to move!
+Monkey_King/Vo_monkey_king_monkey_haste_03.wav|Haste!
+Monkey_King/Vo_monkey_king_monkey_haste_02.wav|Haha. Who needs a cloud?
+Monkey_King/Vo_monkey_king_monkey_illus_01.wav|Oh, I love this part.
+Monkey_King/Vo_monkey_king_monkey_illus_03.wav|Illusion!
+Monkey_King/Vo_monkey_king_monkey_illus_02.wav|I could do this all day.
+Monkey_King/Vo_monkey_king_monkey_invis_03.wav|Invisibility!
+Monkey_King/Vo_monkey_king_monkey_invis_02.wav|240 They'll never see me coming.
+Monkey_King/Vo_monkey_king_monkey_invis_01.wav|r HmHmHmhmhmmm. HmmHmmHmmm. Hmmm. Hmhmhmhmhmmm.
+Monkey_King/Vo_monkey_king_monkey_regen_01.wav|Ahhhh.
+Monkey_King/Vo_monkey_king_monkey_regen_03.wav|Regeneration!
+Monkey_King/Vo_monkey_king_monkey_regen_02.wav|I feel better already.
+Monkey_King/Vo_monkey_king_monkey_notyet_01.wav|Almost.
+Monkey_King/Vo_monkey_king_monkey_notyet_04.wav|Not yet.
+Monkey_King/Vo_monkey_king_monkey_notyet_07.wav|Wait for it.
+Monkey_King/Vo_monkey_king_monkey_notyet_10.wav|Just a little longer.
+Monkey_King/Vo_monkey_king_monkey_notyet_13.wav|Need a few more seconds.
+Monkey_King/Vo_monkey_king_monkey_notyet_16.wav|All in due time.
+Monkey_King/Vo_monkey_king_monkey_notyet_19.wav|I'll be ready in a second.
+Monkey_King/Vo_monkey_king_monkey_notyet_22.wav|Don't rush me, when I'm ready I'm ready.
+Monkey_King/Vo_monkey_king_monkey_notyet_25.wav|I'm not ready yet.
+Monkey_King/Vo_monkey_king_monkey_notyet_28.wav|Even I have my limits.
+Monkey_King/Vo_monkey_king_monkey_notyet_31.wav|Let me catch my breath first.
+Monkey_King/Vo_monkey_king_monkey_notyet_34.wav|I can't do that now.
+Monkey_King/Vo_monkey_king_monkey_notyet_02.wav|Almost.
+Monkey_King/Vo_monkey_king_monkey_notyet_05.wav|Not yet.
+Monkey_King/Vo_monkey_king_monkey_notyet_08.wav|Wait for it.
+Monkey_King/Vo_monkey_king_monkey_notyet_11.wav|Just a little longer.
+Monkey_King/Vo_monkey_king_monkey_notyet_14.wav|Need a few more seconds.
+Monkey_King/Vo_monkey_king_monkey_notyet_17.wav|All in due time.
+Monkey_King/Vo_monkey_king_monkey_notyet_20.wav|I'll be ready in a second.
+Monkey_King/Vo_monkey_king_monkey_notyet_23.wav|Don't rush me, when I'm ready I'm ready.
+Monkey_King/Vo_monkey_king_monkey_notyet_26.wav|I'm not ready yet.
+Monkey_King/Vo_monkey_king_monkey_notyet_29.wav|Even I have my limits.
+Monkey_King/Vo_monkey_king_monkey_notyet_32.wav|Let me catch my breath first.
+Monkey_King/Vo_monkey_king_monkey_notyet_35.wav|I can't do that now.
+Monkey_King/Vo_monkey_king_monkey_notyet_03.wav|Almost!
+Monkey_King/Vo_monkey_king_monkey_notyet_06.wav|Not yet!
+Monkey_King/Vo_monkey_king_monkey_notyet_09.wav|Wait for it!
+Monkey_King/Vo_monkey_king_monkey_notyet_12.wav|Just a little longer!
+Monkey_King/Vo_monkey_king_monkey_notyet_15.wav|Need a few more seconds!
+Monkey_King/Vo_monkey_king_monkey_notyet_18.wav|All in due time!
+Monkey_King/Vo_monkey_king_monkey_notyet_21.wav|I'll be ready in a second!
+Monkey_King/Vo_monkey_king_monkey_notyet_24.wav|Don't rush me, when I'm ready I'm ready!
+Monkey_King/Vo_monkey_king_monkey_notyet_27.wav|I'm not ready yet!
+Monkey_King/Vo_monkey_king_monkey_notyet_30.wav|Even I have my limits!
+Monkey_King/Vo_monkey_king_monkey_notyet_33.wav|Let me catch my breath first!
+Monkey_King/Vo_monkey_king_monkey_notyet_36.wav|I can't do that now!
+Monkey_King/Vo_monkey_king_monkey_nomana_01.wav|I'm out of mana.
+Monkey_King/Vo_monkey_king_monkey_nomana_04.wav|I need mana.
+Monkey_King/Vo_monkey_king_monkey_nomana_07.wav|No mana.
+Monkey_King/Vo_monkey_king_monkey_nomana_16.wav|Still need mana.
+Monkey_King/Vo_monkey_king_monkey_nomana_10.wav|Running on empty here.
+Monkey_King/Vo_monkey_king_monkey_nomana_13.wav|I need to recharge.
+Monkey_King/Vo_monkey_king_monkey_nomana_02.wav|I'm out of mana.
+Monkey_King/Vo_monkey_king_monkey_nomana_05.wav|I need mana.
+Monkey_King/Vo_monkey_king_monkey_nomana_08.wav|No mana.
+Monkey_King/Vo_monkey_king_monkey_nomana_17.wav|Still need mana.
+Monkey_King/Vo_monkey_king_monkey_nomana_11.wav|Running on empty here.
+Monkey_King/Vo_monkey_king_monkey_nomana_14.wav|I need to recharge.
+Monkey_King/Vo_monkey_king_monkey_nomana_03.wav|I'm out of mana!
+Monkey_King/Vo_monkey_king_monkey_nomana_06.wav|I need mana!
+Monkey_King/Vo_monkey_king_monkey_nomana_09.wav|No mana!
+Monkey_King/Vo_monkey_king_monkey_nomana_18.wav|Still need mana!
+Monkey_King/Vo_monkey_king_monkey_nomana_12.wav|Running on empty here!
+Monkey_King/Vo_monkey_king_monkey_nomana_15.wav|I need to recharge!
+Monkey_King/Vo_monkey_king_monkey_pain_02.wav|Aghh!
+Monkey_King/Vo_monkey_king_monkey_pain_03.wav|Ohf!
+Monkey_King/Vo_monkey_king_monkey_pain_04.wav|Uh!
+Monkey_King/Vo_monkey_king_monkey_pain_05.wav|Igh!
+Monkey_King/Vo_monkey_king_monkey_pain_06.wav|Oohf!
+Monkey_King/Vo_monkey_king_monkey_pain_07.wav|Urgh!
+Monkey_King/Vo_monkey_king_monkey_pain_08.wav|Ahhh!
+Monkey_King/Vo_monkey_king_monkey_pain_09.wav|Ooah!
+Monkey_King/Vo_monkey_king_monkey_pain_10.wav|Ehh!
+Monkey_King/Vo_monkey_king_monkey_pain_11.wav|Oooh!
+Monkey_King/Vo_monkey_king_monkey_pain_12.wav|Agh!
+Monkey_King/Vo_monkey_king_monkey_pain_13.wav|Oof!
+Monkey_King/Vo_monkey_king_monkey_pain_14.wav|Urgh!
+Monkey_King/Vo_monkey_king_monkey_pain_15.wav|Dah!
+Monkey_King/Vo_monkey_king_monkey_pain_16.wav|Agh!
+Monkey_King/Vo_monkey_king_monkey_pain_17.wav|Ahh!
+Monkey_King/Vo_monkey_king_monkey_pain_18.wav|Oah!
+Monkey_King/Vo_monkey_king_monkey_pain_19.wav|Argh!
+Monkey_King/Vo_monkey_king_monkey_pain_20.wav|Uh!
+Monkey_King/Vo_monkey_king_monkey_pain_21.wav|Ah!
+Monkey_King/Vo_monkey_king_monkey_pain_22.wav|Ooh!
+Monkey_King/Vo_monkey_king_monkey_pain_24.wav|Aahh!
+Monkey_King/Vo_monkey_king_monkey_grunts_04.wav|Ooah!
+Monkey_King/Vo_monkey_king_monkey_underattack_03.wav|120 I'm under attack!
+Monkey_King/Vo_monkey_king_monkey_underattack_01.wav|120 Little help here!
+Monkey_King/Vo_monkey_king_monkey_underattack_02.wav|120 Get over here and help!
+Monkey_King/Vo_monkey_king_monkey_rare_01.wav|240 I never should have sold my likeness and life story.
+Monkey_King/Vo_monkey_king_monkey_rare_02.wav|240 There's a lot of stories about the Monkey King. Some of 'em are even true.
+Monkey_King/Vo_monkey_king_monkey_rare_03.wav|240 Where did I park my cloud?
+Monkey_King/Vo_monkey_king_monkey_rare_04.wav|240 Well, some people ask if I'm really a king. And I always wonder why no one asks if I'm really a monkey.
+Monkey_King/Vo_monkey_king_monkey_missing_lane_01.wav|Top is missing!
+Monkey_King/Vo_monkey_king_monkey_missing_lane_02.wav|Middle is missing!
+Monkey_King/Vo_monkey_king_monkey_missing_lane_03.wav|Bottom is missing!
+Monkey_King/Vo_monkey_king_monkey_thanks_01.wav|Thanks.
+Monkey_King/Vo_monkey_king_monkey_thanks_02.wav|Appreciate it.
+Monkey_King/Vo_monkey_king_monkey_thanks_03.wav|240 Hey, you're almost as good as me.
+Monkey_King/Vo_monkey_king_monkey_thanks_04.wav|240 The Monkey King's gratitude is worth more than gold. (broken file)
+Monkey_King/Vo_monkey_king_monkey_laugh_01.wav|Hm hm hm hm hmm.
+Monkey_King/Vo_monkey_king_monkey_laugh_02.wav|Hohohohoo.
+Monkey_King/Vo_monkey_king_monkey_laugh_03.wav|Huhahahahahahahahaaa.
+Monkey_King/Vo_monkey_king_monkey_laugh_04.wav|Hnhnhnhnhnhnhnn.
+Monkey_King/Vo_monkey_king_monkey_laugh_05.wav|Ooh ha ha ha haa ah ha ha.
+Monkey_King/Vo_monkey_king_monkey_laugh_06.wav|Ha ha ha ha ha ha ha ha.
+Monkey_King/Vo_monkey_king_monkey_laugh_07.wav|Ho ho ho hoo oh.
+Monkey_King/Vo_monkey_king_monkey_laugh_08.wav|Ooo ha ha ha ha ha ha ha ha.
+Monkey_King/Vo_monkey_king_monkey_laugh_09.wav|Oh ho ho ho ho hoo.
+Monkey_King/Vo_monkey_king_monkey_laugh_10.wav|Ha ha ha.
+Monkey_King/Vo_monkey_king_monkey_laugh_11.wav|Hoo oh oh oh.
+Monkey_King/Vo_monkey_king_monkey_laugh_12.wav|Hehehehehe.
+Monkey_King/Vo_monkey_king_monkey_laugh_13.wav|Hohohohohoho.
+Monkey_King/Vo_monkey_king_monkey_laugh_14.wav|Huhahahahahahaha.
+Monkey_King/Vo_monkey_king_monkey_laugh_15.wav|Hohohoho.
+Monkey_King/Vo_monkey_king_monkey_laugh_16.wav|Oh ho hooo.
+Monkey_King/Vo_monkey_king_monkey_laugh_17.wav|r Ah ha ha ha ha ha. Woohoohoohoo. Ohhh heee.
+Monkey_King/Vo_monkey_king_monkey_laugh_18.wav|u Ha ha ha.
+Monkey_King/Vo_monkey_king_monkey_win_01.wav|Of course we won, I'm here.
+Monkey_King/Vo_monkey_king_monkey_win_03.wav|Oh, too easy!
+Monkey_King/Vo_monkey_king_monkey_win_04.wav|Hahahahahaaa! Oh!
+Monkey_King/Vo_monkey_king_monkey_win_02.wav|Ohh, I'll be signing autographs out front.
+Monkey_King/Vo_monkey_king_monkey_ability5_07.wav|This was over before it started.
+Monkey_King/Vo_monkey_king_monkey_lose_01.wav|I...I lost.
+Monkey_King/Vo_monkey_king_monkey_lose_02.wav|How did this happen!
+Monkey_King/Vo_monkey_king_monkey_lose_03.wav|Impossible, tell this story again!
+Monkey_King/Vo_monkey_king_monkey_lose_04.wav|This isn't the end of the story, I promise you.
+Monkey_King/Vo_monkey_king_monkey_death_16.wav|This isn't my role!
+Monkey_King/Vo_monkey_king_monkey_ability5_07.wav|This was over before it started.
+Monkey_King/Vo_monkey_king_monkey_drop_common_01.wav|This'll work.
+Monkey_King/Vo_monkey_king_monkey_drop_medium_01.wav|Alright.
+Monkey_King/Vo_monkey_king_monkey_drop_rare_01.wav|Ohhohohohoo.
+Monkey_King/Vo_monkey_king_monkey_drop_rare_02.wav|Mine by right!
+Monkey_King/Vo_monkey_king_monkey_drop_rare_03.wav|Oooooo.
+Monkey_King/Vo_monkey_king_monkey_taunt_01.wav|I can lift a seventeen-thousand pound staff. You think I'm scared of you?
+Monkey_King/Vo_monkey_king_monkey_taunt_02.wav|You're not in my league, I get it. But try to keep up.
+Monkey_King/Vo_monkey_king_monkey_godlike_01.wav|u Hey Broodmother: Are you watching? ARE YOU WATCHING?!
+Monkey_King/Vo_monkey_king_monkey_crumwiz_01.wav|u Crummy wizard!
+Monkey_King/Vo_monkey_king_monkey_shitwiz_01.wav|u Shitty wizard!
+Monkey_King/Vo_monkey_king_monkey_anger_08.wav|u Rrrah!
+Monkey_King/Vo_monkey_king_monkey_anger_09.wav|u Ahhh!
+Monkey_King/Vo_monkey_king_monkey_anger_10.wav|u Ruah!
+Monkey_King/Vo_monkey_king_monkey_anger_11.wav|u Ahh!
+Monkey_King/Vo_monkey_king_monkey_crown_anger_12.wav|u Aah!
+Monkey_King/Vo_monkey_king_monkey_anger_13.wav|u Rrrrnnnn!
+Monkey_King/Vo_monkey_king_monkey_anger_14.wav|u Aghhh!
+Monkey_King/Vo_monkey_king_monkey_anger_15.wav|u Ah!
+Monkey_King/Vo_monkey_king_monkey_anger_16.wav|u Uraaaah!
+Monkey_King/Vo_monkey_king_monkey_happy_04.wav|u Haaa.
+Monkey_King/Vo_monkey_king_monkey_happy_06.wav|u Haaaa.
+Monkey_King/Vo_monkey_king_monkey_happy_07.wav|u Ahhhhh.
+Monkey_King/Vo_monkey_king_monkey_happy_08.wav|u HmmHmmmmm.
+Monkey_King/Vo_monkey_king_monkey_happy_09.wav|u Aaaaaaah.
+Monkey_King/Vo_monkey_king_monkey_no_01.wav|u Na.
